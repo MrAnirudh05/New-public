@@ -1,0 +1,975 @@
+﻿code,current,name,gender,function,category,country_code,country,country_long,disciplines,events,birth_date
+1533246,TRUE,PEDRERO Ofelia,Female,Coach,C,MEX,Mexico,Mexico,Artistic Swimming,Team,28-03-1988
+1535775,TRUE,RADHI SHENAISHIL,Male,Head Coach,C,IRQ,Iraq,Iraq,Football,Men,01-07-1965
+1536055,TRUE,AFLAKIKHAMSEH Majid,Male,Coach,C,IRI,IR Iran,Islamic Republic of Iran,Taekwondo,,26-08-1973
+1536059,TRUE,YOUSEFY Mehrdad,Male,Coach,C,IRI,IR Iran,Islamic Republic of Iran,Taekwondo,,12-06-1972
+1536060,TRUE,MADDAH Minoo,Female,Coach,C,IRI,IR Iran,Islamic Republic of Iran,Taekwondo,,17-05-1976
+1536328,TRUE,LOFTUS Adriana,Female,Coach,C,MEX,Mexico,Mexico,Artistic Swimming,Team,28-06-1958
+1538313,TRUE,FERRARA Fernando,Male,Head Coach,C,ARG,Argentina,Argentina,Hockey,,24-07-1968
+1538315,TRUE,GULLA Alejandra,Female,Assistant Coach,C,ARG,Argentina,Argentina,Hockey,Women,04-07-1977
+1538317,TRUE,CAPURRO Santiago,Male,Assistant Coach,C,ARG,Argentina,Argentina,Hockey,,08-04-1975
+1538745,TRUE,RONCONI Mariano,Male,Head Coach,C,ARG,Argentina,Argentina,Hockey,,
+1538748,TRUE,PAULON Ezequiel,Male,Assistant Coach,C,ARG,Argentina,Argentina,Hockey,,
+1538751,TRUE,VILA Matias,Male,Assistant Coach,C,ARG,Argentina,Argentina,Hockey,,
+1539598,TRUE,KHEIRKHAH HAJIRASOULIAN Mohammadre.,Male,Coach,C,IRI,IR Iran,Islamic Republic of Iran,Artistic Gymnastics,,27-06-1965
+1540258,TRUE,DAVIS DIAZ David,Male,Coach,C,MEX,Mexico,Mexico,Taekwondo,,07-10-1977
+1540259,TRUE,MENDOZA MORA Abel,Male,Coach,C,MEX,Mexico,Mexico,Taekwondo,,26-02-1988
+1540260,TRUE,VICTORIA ESPINOSA de los Alfonso,Male,Coach,C,MEX,Mexico,Mexico,Taekwondo,,01-02-1985
+1540522,TRUE,MILANO Guillermo,Male,Head Coach,C,ARG,Argentina,Argentina,Handball,Men,08-02-1973
+1540638,TRUE,GOMEZ CORA Santiago,Male,Head Coach,C,ARG,Argentina,Argentina,Rugby Sevens,Men,25-07-1978
+1540639,TRUE,GRAVANO Leonardo,Male,Assistant Coach,C,ARG,Argentina,Argentina,Rugby Sevens,Men,30-08-1973
+1540840,TRUE,FILIORIANU Ana Luiza,Female,Coach,C,ROU,Romania,Romania,Rhythmic Gymnastics,,10-07-1999
+1542341,TRUE,SMAILI Badr,Male,Coach,C,MAR,Morocco,Morocco,Taekwondo,,07-05-1993
+1542904,TRUE,OCEGUERA ORNELAS Pavel,Male,Coach,C,MEX,Mexico,Mexico,Artistic Gymnastics,,10-09-1971
+1542908,TRUE,VALENZUELA GOMEZ Maria,Female,Coach,C,MEX,Mexico,Mexico,Artistic Gymnastics,,23-07-1976
+1542913,TRUE,MEZA PADILLA Jose,Male,Coach,C,MEX,Mexico,Mexico,Artistic Gymnastics,,25-01-1977
+1542973,TRUE,AGUILAR ROJAS Blajaith,Female,Coach,C,MEX,Mexico,Mexico,Rhythmic Gymnastics,,30-09-1991
+1542976,TRUE,FURALEV Vladislav,Male,Coach,C,MEX,Mexico,Mexico,Rhythmic Gymnastics,,04-01-1970
+1543567,TRUE,UPTON Patrick Anthony Howard,Male,Coach,C,IND,India,India,Hockey,,05-11-1968
+1543570,TRUE,SCHOPMAN Johanna Dorothea Maria,Female,Coach,C,IND,India,India,Hockey,,26-04-1977
+1543575,TRUE,HALKETT Rhett Kennedy,Male,Assistant Coach,C,IND,India,India,Hockey,,02-05-1986
+1543576,TRUE,FULTON Craig Arthur,Male,Head Coach,C,IND,India,India,Hockey,,06-11-1974
+1543577,TRUE,FARRY Anthony James,Male,Coach,C,IND,India,India,Hockey,,13-07-1973
+1544157,TRUE,THORPE Karen,Female,Coach,C,GBR,Great Britain,Great Britain,Artistic Swimming,Duet,21-04-1973
+1544158,TRUE,TOMOMATSU Yumiko,Female,Coach,C,GBR,Great Britain,Great Britain,Artistic Swimming,Duet,21-07-1972
+1544489,TRUE,CURRAN Orlaith,Female,Assistant Coach,C,IRL,Ireland,Ireland,Rugby Sevens,Women,08-08-1990
+1545106,TRUE,NASKAR Arup,Male,Coach,C,IND,India,India,Hockey,,05-05-1983
+1545139,TRUE,CHINNASAMY Ashok Kumar,Male,Coach,C,IND,India,India,Hockey,,24-04-1991
+1545947,TRUE,BUSNARI Alberto,Male,Coach,C,ITA,Italy,Italy,Artistic Gymnastics,,04-10-1978
+1545949,TRUE,COCCIARO Giuseppe,Male,Coach,C,ITA,Italy,Italy,Artistic Gymnastics,,05-08-1959
+1545950,TRUE,FORTUNA Marco,Male,Coach,C,ITA,Italy,Italy,Artistic Gymnastics,,06-06-1961
+1545955,TRUE,BERGAMELLI Monica Roberta,Female,Coach,C,ITA,Italy,Italy,Artistic Gymnastics,,24-05-1984
+1546310,TRUE,CHIRILCENCO Marc Michel,Male,Coach,C,ALG,Algeria,Algeria,Artistic Gymnastics,,24-04-1968
+1546312,TRUE,HAMICI Saad Eddine,Male,Coach,C,ALG,Algeria,Algeria,Artistic Gymnastics,,06-09-1970
+1546698,TRUE,HERRANZ MARTIN Miguel Angel,Male,Coach,C,ESP,Spain,Spain,Taekwondo,,02-04-1964
+1546699,TRUE,RAMAL MUNOZ Jesus,Male,Coach,C,ESP,Spain,Spain,Taekwondo,,01-09-1968
+1546700,TRUE,SEIJO GIEBELS Christian Jaime,Male,Coach,C,ESP,Spain,Spain,Taekwondo,,27-03-1977
+1546701,TRUE,TOLEDO AROCA Antonio,Male,Coach,C,ESP,Spain,Spain,Taekwondo,,08-06-1977
+1546702,TRUE,YAGUE ENRIQUE Brigida,Female,Coach,C,ESP,Spain,Spain,Taekwondo,,15-03-1981
+1548427,TRUE,JONES Gilmar,Male,Coach,C,SUR,Suriname,Suriname,Taekwondo,,26-01-1986
+1548848,TRUE,DIMITROVA Vesela,Female,Coach,C,BUL,Bulgaria,Bulgaria,Rhythmic Gymnastics,,28-10-1975
+1548875,TRUE,STOYNEVA Yasena,Female,Coach,C,BUL,Bulgaria,Bulgaria,Rhythmic Gymnastics,,10-11-1988
+1548895,TRUE,MARKOVA Branimira,Female,Coach,C,BUL,Bulgaria,Bulgaria,Rhythmic Gymnastics,,01-10-1973
+1548902,TRUE,PAMUKOVA Mariyana,Female,Coach,C,BUL,Bulgaria,Bulgaria,Rhythmic Gymnastics,,22-08-1982
+1548919,TRUE,IVANOVA Valentina,Female,Coach,C,BUL,Bulgaria,Bulgaria,Rhythmic Gymnastics,,29-05-1977
+1549452,TRUE,LEE Eui Yong,Male,Coach,C,GAM,Gambia,Gambia,Taekwondo,,09-02-1971
+1550038,TRUE,ARILL Samuel,Male,Assistant Coach,C,PUR,Puerto Rico,Puerto Rico,Basketball,Women,24-08-1975
+1550039,TRUE,MORALES OTERO Carlos,Male,Assistant Coach,C,PUR,Puerto Rico,Puerto Rico,Basketball,Women,30-08-1958
+1550047,TRUE,BATISTA Gerardo,Male,Coach,C,PUR,Puerto Rico,Puerto Rico,Basketball,Women,21-12-1970
+1550196,TRUE,COTUTIU Florin,Male,Coach,C,ROU,Romania,Romania,Artistic Gymnastics,,13-03-1975
+1550198,TRUE,JONES Daymon,Male,Coach,C,ROU,Romania,Romania,Artistic Gymnastics,,05-06-1975
+1550199,TRUE,KIENS Patrick,Male,Coach,C,ROU,Romania,Romania,Artistic Gymnastics,,05-05-1971
+1550201,TRUE,MOROSAN Corina,Female,Coach,C,ROU,Romania,Romania,Artistic Gymnastics,,14-09-1967
+1550203,TRUE,VOINEA Camelia,Female,Coach,C,ROU,Romania,Romania,Artistic Gymnastics,,02-03-1970
+1550267,TRUE,BERBECAR Marius,Male,Coach,C,ROU,Romania,Romania,Artistic Gymnastics,,15-05-1985
+1552001,TRUE,LIU Tsung-Ta,Male,Coach,C,TPE,Chinese Taipei,Chinese Taipei,Taekwondo,,10-10-1974
+1555083,TRUE,GEORGALLAS Irodotos,Male,Coach,C,CYP,Cyprus,Cyprus,Artistic Gymnastics,,14-12-1977
+1555113,TRUE,PETRIDIS Panagiotis,Male,Coach,C,CYP,Cyprus,Cyprus,Artistic Gymnastics,,06-05-1964
+1555115,TRUE,FLANNERY Eimear,Female,Assistant Coach,C,IRL,Ireland,Ireland,Rugby Sevens,Men,02-02-1982
+1555131,TRUE,SHIPPI Panayiotis,Male,Coach,C,CYP,Cyprus,Cyprus,Artistic Gymnastics,,25-03-1982
+1555182,TRUE,TRIKOMITI Chrystalleni,Female,Coach,C,CYP,Cyprus,Cyprus,Rhythmic Gymnastics,,30-11-1993
+1556249,TRUE,DEACU George,Male,Assistant Coach,C,ROU,Romania,Romania,Water Polo,Men,24-11-1984
+1556255,TRUE,RATH Bogdan,Male,Head Coach,C,ROU,Romania,Romania,Water Polo,Men,28-06-1972
+1557013,TRUE,ARIAS Ramon,Male,Coach,C,CHI,Chile,Chile,Taekwondo,,18-08-1956
+1559048,TRUE,WIBERG Johanna,Female,Assistant Coach,C,SWE,Sweden,Sweden,Handball,Women,06-09-1983
+1559066,TRUE,FORSBERG Thomas,Male,Assistant Coach,C,SWE,Sweden,Sweden,Handball,Women,04-09-1980
+1559067,TRUE,AXNER Tomas,Male,Head Coach,C,SWE,Sweden,Sweden,Handball,Women,30-11-1969
+1560169,TRUE,DIOVOL Alioune,Male,Coach,C,SEN,Senegal,Senegal,Taekwondo,,19-06-1979
+1561282,TRUE,da ROCHA Cristiano,Male,Head Coach,C,BRA,Brazil,Brazil,Handball,Women,10-06-1981
+1561719,TRUE,ALTENBURG Valentin,Male,Head Coach,C,GER,Germany,Germany,Hockey,,04-06-1981
+1561732,TRUE,HENNING Andre,Male,Head Coach,C,GER,Germany,Germany,Hockey,,03-12-1983
+1561734,TRUE,SCHMITZ Johannes,Male,Assistant Coach,C,GER,Germany,Germany,Hockey,,23-03-1988
+1561740,TRUE,ARKELL Robin,Male,Coach,C,GER,Germany,Germany,Hockey,,18-05-1988
+1561741,TRUE,GADEMAN Pasha,Male,Assistant Coach,C,GER,Germany,Germany,Hockey,,06-03-1988
+1562260,TRUE,WEIDINGER Markus,Male,Coach,C,AUT,Austria,Austria,Taekwondo,,25-12-1984
+1562563,TRUE,SOLBERG Glenn,Male,Head Coach,C,SWE,Sweden,Sweden,Handball,Men,18-02-1972
+1562564,TRUE,SVENSSON Tomas,Male,Assistant Coach,C,SWE,Sweden,Sweden,Handball,Men,15-02-1968
+1562566,TRUE,APELGREN Michael,Male,Assistant Coach,C,SWE,Sweden,Sweden,Handball,Men,20-08-1984
+1562778,TRUE,TANKOUCHEV Milko,Male,Coach,C,BUL,Bulgaria,Bulgaria,Artistic Gymnastics,,15-12-1958
+1562790,TRUE,YANEV Filip,Male,Coach,C,BUL,Bulgaria,Bulgaria,Artistic Gymnastics,,10-03-1982
+1562963,TRUE,WINIARSKI Michal,Male,Head Coach,C,GER,Germany,Germany,Volleyball,Men,28-09-1983
+1562973,TRUE,RANNER Thomas,Male,Assistant Coach,C,GER,Germany,Germany,Volleyball,Men,31-07-1987
+1562974,TRUE,POSMYK Dominik,Male,Assistant Coach,C,GER,Germany,Germany,Volleyball,Men,12-08-1995
+1563661,TRUE,SALLAH Mariama M.,Female,Coach,C,GAM,Gambia,Gambia,Taekwondo,,17-01-1975
+1563956,TRUE,TUMILTY Mark,Male,Head Coach,C,IRL,Ireland,Ireland,Hockey,,
+1563966,TRUE,TOTH Balazs,Male,Coach,C,GER,Germany,Germany,Taekwondo,,31-08-1983
+1564287,TRUE,QUSAI MUNIR,Male,Assistant Coach,C,IRQ,Iraq,Iraq,Football,Men,12-04-1980
+1564321,TRUE,CRUZ LOPEZ Jose L,Male,Assistant Coach,C,PUR,Puerto Rico,Puerto Rico,Basketball,Men,03-10-1969
+1564323,TRUE,COLON Nelson,Male,Coach,C,PUR,Puerto Rico,Puerto Rico,Basketball,Men,24-01-1978
+1564325,TRUE,CRUZ Rafael,Male,Assistant Coach,C,PUR,Puerto Rico,Puerto Rico,Basketball,Men,14-08-1979
+1564413,TRUE,BESHEER Gamal,Male,Coach,C,EGY,Egypt,Egypt,Artistic Gymnastics,,30-10-1970
+1564469,TRUE,MOHAMED Ahmed,Male,Coach,C,EGY,Egypt,Egypt,Artistic Gymnastics,,26-11-1986
+1564470,TRUE,ABDELMEGUID Zakaria,Male,Coach,C,EGY,Egypt,Egypt,Artistic Gymnastics,,23-02-1975
+1564477,TRUE,MOHAMED Mayar,Female,Coach,C,EGY,Egypt,Egypt,Rhythmic Gymnastics,,14-07-1992
+1564481,TRUE,HUSSEIN Noha,Female,Coach,C,EGY,Egypt,Egypt,Rhythmic Gymnastics,,09-02-1988
+1565043,TRUE,MOUNDOUNGA KOMBILA Stephane,Male,Coach,C,GAB,Gabon,Gabon,Taekwondo,,07-11-1986
+1565143,TRUE,MLADENOVA Albena,Female,Coach,C,AUT,Austria,Austria,Artistic Swimming,Duet,10-06-1964
+1565591,TRUE,AL-ASSAF Faris,Male,Coach,C,JOR,Jordan,Jordan,Taekwondo,,21-11-1981
+1565609,TRUE,ALSADEQ Yazan,Male,Coach,C,JOR,Jordan,Jordan,Taekwondo,,29-06-1993
+1565612,TRUE,ALJALLAD Riham,Female,Coach,C,JOR,Jordan,Jordan,Taekwondo,,06-05-1983
+1565657,TRUE,KRAVCHENKO Sergiy,Male,Assistant Coach,C,UKR,Ukraine,Ukraine,Football,,24-04-1983
+1565672,TRUE,ROTAN Ruslan,Male,Head Coach,C,UKR,Ukraine,Ukraine,Football,Men,
+1565759,TRUE,SIREKANYAN Gurgen,Male,Coach,C,JOR,Jordan,Jordan,Artistic Gymnastics,,15-11-1981
+1566325,TRUE,FREHSE Gabriele,Female,Coach,C,AUT,Austria,Austria,Artistic Gymnastics,,25-10-1960
+1566746,TRUE,SAHIN Ali,Male,Coach,C,TUR,TÃ¼rkiye,TÃ¼rkiye,Taekwondo,,02-06-1967
+1566749,TRUE,TAZEGUL Servet,Male,Coach,C,TUR,TÃ¼rkiye,TÃ¼rkiye,Taekwondo,,26-09-1988
+1567065,TRUE,BABEL Vincent,Male,Coach,C,SUR,Suriname,Suriname,Taekwondo,,26-06-1975
+1568152,TRUE,GOKTEKIN Yilmaz,Male,Coach,C,TUR,TÃ¼rkiye,TÃ¼rkiye,Artistic Gymnastics,,01-01-1972
+1568153,TRUE,NURI Tufan,Male,Coach,C,TUR,TÃ¼rkiye,TÃ¼rkiye,Artistic Gymnastics,,01-01-1991
+1568648,TRUE,GOJKOVIC Vladimir,Male,Head Coach,C,MNE,Montenegro,Montenegro,Water Polo,Men,29-01-1981
+1569994,TRUE,TOMAS Toni,Male,Coach,C,GBR,Great Britain,Great Britain,Taekwondo,,17-12-1980
+1569995,TRUE,LAURA Veljko,Male,Coach,C,CRO,Croatia,Croatia,Taekwondo,,12-08-1984
+1569996,TRUE,MESAROV Dejan,Male,Coach,C,CRO,Croatia,Croatia,Taekwondo,,06-07-1983
+1572261,TRUE,GALAMBOS Bence,Male,Coach,C,HUN,Hungary,Hungary,Taekwondo,,30-11-1992
+1572269,TRUE,MARTON Luana,Female,Coach,C,HUN,Hungary,Hungary,Taekwondo,,16-02-2006
+1572364,TRUE,SALIM Gergely,Male,Coach,C,HUN,Hungary,Hungary,Taekwondo,,01-04-1972
+1572370,TRUE,SALIM Sharif Gergely,Male,Coach,C,HUN,Hungary,Hungary,Taekwondo,,26-02-2002
+1572373,TRUE,MIKKONEN Suvi,Female,Coach,C,HUN,Hungary,Hungary,Taekwondo,,11-07-1988
+1572650,TRUE,ROUSSEAUX Emile,Male,Head Coach,C,FRA,France,France,Volleyball,Women,03-04-1961
+1572652,TRUE,ANDRE Felix,Male,Assistant Coach,C,FRA,France,France,Volleyball,Women,19-03-1987
+1572654,TRUE,GAUTHIER Charles,Male,Assistant Coach,C,FRA,France,France,Volleyball,Women,31-12-1981
+1573466,TRUE,TOUPANE Jean Aime,Male,Coach,C,FRA,France,France,Basketball,Women,12-01-1958
+1573467,TRUE,MELAIN Catherine,Female,Assistant Coach,C,FRA,France,France,Basketball,Women,19-05-1974
+1573468,TRUE,GAUTIER David,Male,Assistant Coach,C,FRA,France,France,Basketball,,08-01-1980
+1573469,TRUE,HALIN Gregory,Male,Coach,C,FRA,France,France,Basketball,,12-04-1972
+1573470,TRUE,LEONARD Christophe,Male,Coach,C,FRA,France,France,Basketball,,03-01-1990
+1573668,TRUE,COLLET Vincent,Male,Coach,C,FRA,France,France,Basketball,Men,06-06-1963
+1573669,TRUE,DONNADIEU Pascal,Male,Assistant Coach,C,FRA,France,France,Basketball,Men,29-05-1964
+1573670,TRUE,ATKINSON Kenny,Male,Assistant Coach,C,FRA,France,France,Basketball,Men,02-06-1967
+1573671,TRUE,NELHOMME Ruddy,Male,Coach,C,FRA,France,France,Basketball,,15-03-1972
+1573672,TRUE,GOMIS Joseph,Male,Coach,C,FRA,France,France,Basketball,,02-07-1978
+1574076,TRUE,CIAMARRA Roberto,Male,Assistant Coach,C,FRA,France,France,Volleyball,Men,30-03-1982
+1574080,TRUE,GEILER Loic,Male,Assistant Coach,C,FRA,France,France,Volleyball,Men,14-04-1984
+1574082,TRUE,GIANI Andrea,Male,Head Coach,C,FRA,France,France,Volleyball,Men,22-04-1970
+1830240,TRUE,WENG Shih-Hang,Male,Coach,C,TPE,Chinese Taipei,Chinese Taipei,Artistic Gymnastics,,20-10-1982
+1835894,TRUE,TSAI Heng-Cheng,Male,Coach,C,TPE,Chinese Taipei,Chinese Taipei,Artistic Gymnastics,,03-10-1978
+1878950,TRUE,SANTARELLI Daniele,Male,Head Coach,C,TUR,TÃ¼rkiye,TÃ¼rkiye,Volleyball,Women,08-06-1981
+1878952,TRUE,FLISI Diego,Male,Assistant Coach,C,TUR,TÃ¼rkiye,TÃ¼rkiye,Volleyball,Women,09-05-1979
+1878956,TRUE,ZOTTA Andrea,Male,Assistant Coach,C,TUR,TÃ¼rkiye,TÃ¼rkiye,Volleyball,Women,27-12-1994
+1879044,TRUE,VATANSEVER Recep,Male,Assistant Coach,C,TUR,TÃ¼rkiye,TÃ¼rkiye,Volleyball,Women,17-01-1991
+1879645,TRUE,DARET Jerome,Male,Head Coach,C,FRA,France,France,Rugby Sevens,Men,26-12-1974
+1879871,TRUE,KRUMBHOLZ Olivier,Male,Head Coach,C,FRA,France,France,Handball,Women,12-07-1958
+1879872,TRUE,GARDILLOU Sebastien,Male,Assistant Coach,C,FRA,France,France,Handball,Women,29-08-1975
+1879875,TRUE,LEYNAUD Amandine,Female,Assistant Coach,C,FRA,France,France,Handball,Women,02-05-1986
+1880219,TRUE,GALKIN Evgeniy,Male,Coach,C,UZB,Uzbekistan,Uzbekistan,Artistic Gymnastics,,08-07-1952
+1880226,TRUE,ABDUSAMATOV Khusniddin,Male,Coach,C,UZB,Uzbekistan,Uzbekistan,Artistic Gymnastics,,08-04-1996
+1880388,TRUE,MWEMA Kevin,Male,Head Coach,C,KEN,Kenya,Kenya,Rugby Sevens,Men,08-10-1985
+1880389,TRUE,AMONDE Andrew,Male,Assistant Coach,C,KEN,Kenya,Kenya,Rugby Sevens,Men,25-12-1983
+1880390,TRUE,KISIA Louis,Male,Assistant Coach,C,KEN,Kenya,Kenya,Rugby Sevens,Men,03-09-1986
+1880620,TRUE,HRUBESCH Horst,Male,Head Coach,C,GER,Germany,Germany,Football,Women,17-04-1951
+1880626,TRUE,CARLSON Britta,Female,Assistant Coach,C,GER,Germany,Germany,Football,Women,03-03-1978
+1880629,TRUE,FUCHS Michael,Male,Goalkeeper Coach,C,GER,Germany,Germany,Football,Women,04-01-1970
+1880639,TRUE,NOERENBERG Thomas,Male,Assistant Coach,C,GER,Germany,Germany,Football,Women,25-12-1963
+1880657,TRUE,MUKHAMEDOVA Rano,Female,Coach,C,UZB,Uzbekistan,Uzbekistan,Rhythmic Gymnastics,,24-04-1989
+1880659,TRUE,VLASOVA Liliya,Female,Coach,C,UZB,Uzbekistan,Uzbekistan,Rhythmic Gymnastics,,26-06-1981
+1887640,TRUE,KHAN Pavel,Male,Coach,C,UZB,Uzbekistan,Uzbekistan,Taekwondo,,08-12-1984
+1887642,TRUE,RAFALOVICH Maksim,Male,Coach,C,UZB,Uzbekistan,Uzbekistan,Taekwondo,,13-05-1990
+1887644,TRUE,KHAN Vladimir,Male,Coach,C,UZB,Uzbekistan,Uzbekistan,Taekwondo,,06-12-1984
+1887648,TRUE,BAYKUZIYEV Jasur,Male,Coach,C,UZB,Uzbekistan,Uzbekistan,Taekwondo,,04-09-1986
+1888131,TRUE,PAKKAN Saim,Male,Assistant Coach,C,SRB,Serbia,Serbia,Volleyball,Women,27-03-1989
+1888241,TRUE,NISHIIRI Toshihiro,Male,Goalkeeper Coach,C,JPN,Japan,Japan,Football,,03-09-1977
+1888242,TRUE,IKEDA Futoshi,Male,Head Coach,C,JPN,Japan,Japan,Football,Women,04-10-1970
+1888246,TRUE,MIYAMOTO Tomomi,Female,Assistant Coach,C,JPN,Japan,Japan,Football,,31-12-1978
+1888338,TRUE,MENEZES Jude,Male,Head Coach,C,JPN,Japan,Japan,Hockey,,08-05-1971
+1888344,TRUE,OZAWA Kazuyuki,Male,Assistant Coach,C,JPN,Japan,Japan,Hockey,,27-02-1979
+1888372,TRUE,ERSIMSEK Ahmetcan,Male,Assistant Coach,C,SRB,Serbia,Serbia,Volleyball,Women,13-05-1992
+1888498,TRUE,ROTHMAN Neville,Male,Assistant Coach,C,IRL,Ireland,Ireland,Hockey,,13-06-1977
+1891425,TRUE,GELLE Noemi Katalin,Female,Coach,C,HUN,Hungary,Hungary,Rhythmic Gymnastics,,29-09-1975
+1891653,TRUE,NAGANUMA Atsushi,Male,Assistant Coach,C,JPN,Japan,Japan,Water Polo,Men,22-09-1982
+1891659,TRUE,HAZUI Shota,Male,Assistant Coach,C,JPN,Japan,Japan,Water Polo,Men,30-09-1986
+1891667,TRUE,SHIOTA Yoshinori,Male,Head Coach,C,JPN,Japan,Japan,Water Polo,Men,12-08-1982
+1891684,TRUE,KAWAI Mayo,Female,Coach,C,JPN,Japan,Japan,Artistic Swimming,,01-11-1991
+1891686,TRUE,KASHIMA Tomoyo,Female,Coach,C,JPN,Japan,Japan,Artistic Swimming,Team,17-02-1995
+1891688,TRUE,NAKAJIMA Takako,Female,Coach,C,JPN,Japan,Japan,Artistic Swimming,Team,25-09-1986
+1892047,TRUE,KAPADZE Timur,Male,Head Coach,C,UZB,Uzbekistan,Uzbekistan,Football,Men,05-09-1981
+1892050,TRUE,CHIGODAEV Sergey,Male,Assistant Coach,C,UZB,Uzbekistan,Uzbekistan,Football,,28-06-1987
+1893216,TRUE,GILLE Guillaume,Male,Head Coach,C,FRA,France,France,Handball,Men,
+1893217,TRUE,MATHE Erick,Male,Assistant Coach,C,FRA,France,France,Handball,Men,23-07-1971
+1893323,TRUE,ALONSO TAPIA Rosendo,Male,Coach,C,FRA,France,France,Taekwondo,,03-10-1979
+1893324,TRUE,ALONSO TAPIA Gulsah,Female,Coach,C,FRA,France,France,Taekwondo,,15-09-1980
+1893325,TRUE,JUNG Woomin,Male,Coach,C,FRA,France,France,Taekwondo,,09-04-1986
+1894657,TRUE,WILLE Jonas,Male,Head Coach,C,NOR,Norway,Norway,Handball,Men,20-05-1976
+1894659,TRUE,EGE Steinar,Male,Assistant Coach,C,NOR,Norway,Norway,Handball,Men,10-04-1972
+1894661,TRUE,BOQUIST Martin,Male,Assistant Coach,C,NOR,Norway,Norway,Handball,Men,02-02-1977
+1894662,TRUE,OLSSON Mats,Male,Assistant Coach,C,NOR,Norway,Norway,Handball,Women,12-01-1960
+1894663,TRUE,HERGEIRSSON Thorir,Male,Head Coach,C,NOR,Norway,Norway,Handball,Women,27-04-1964
+1894666,TRUE,LARSEN Tonje,Female,Assistant Coach,C,NOR,Norway,Norway,Handball,Women,26-01-1975
+1894756,TRUE,JOERGENSEN Michael,Male,Coach,C,NOR,Norway,Norway,Taekwondo,,05-01-1963
+1895149,TRUE,DRASOCZKY Imre,Male,Coach,C,HUN,Hungary,Hungary,Artistic Gymnastics,,15-11-1968
+1895269,TRUE,BRUUN Michael,Male,Assistant Coach,C,DEN,Denmark,Denmark,Handball,Men,08-10-1970
+1895270,TRUE,JOERGENSEN Lars,Male,Assistant Coach,C,DEN,Denmark,Denmark,Handball,Women,03-02-1978
+1895275,TRUE,KRONBORG Henrik,Male,Assistant Coach,C,DEN,Denmark,Denmark,Handball,Men,16-06-1970
+1895276,TRUE,JACOBSEN Nikolaj,Male,Head Coach,C,DEN,Denmark,Denmark,Handball,Men,22-11-1971
+1895279,TRUE,JENSEN Jesper,Male,Head Coach,C,DEN,Denmark,Denmark,Handball,Women,30-10-1977
+1895408,TRUE,SOYEZ Frederic,Male,Head Coach,C,FRA,France,France,Hockey,,11-02-1978
+1895409,TRUE,SALA Ramon,Male,Assistant Coach,C,FRA,France,France,Hockey,,08-08-1971
+1895410,TRUE,LOMBI Jorge,Male,Assistant Coach,C,FRA,France,France,Hockey,,01-11-1971
+1895517,TRUE,SZUCS Robert,Male,Coach,C,HUN,Hungary,Hungary,Artistic Gymnastics,,10-11-1972
+1895520,TRUE,TRENKA Janos,Male,Coach,C,HUN,Hungary,Hungary,Artistic Gymnastics,,07-10-1979
+1896158,TRUE,HARVEY Mike,Male,Coach,C,GBR,Great Britain,Great Britain,Taekwondo,,21-09-1989
+1896160,TRUE,MAIZEROI Torann,Male,Coach,C,GBR,Great Britain,Great Britain,Taekwondo,,01-04-1989
+1896164,TRUE,MILLER Nelson,Male,Coach,C,GBR,Great Britain,Great Britain,Taekwondo,,18-11-1965
+1896167,TRUE,STAMPER Martin,Male,Coach,C,GBR,Great Britain,Great Britain,Taekwondo,,21-08-1986
+1896246,TRUE,POLJAKOVA Shanna,Female,Coach,C,GER,Germany,Germany,Artistic Gymnastics,,12-09-1960
+1896251,TRUE,BELENKI Valeri,Male,Coach,C,GER,Germany,Germany,Artistic Gymnastics,,05-09-1969
+1896252,TRUE,CATANOIU Grigore,Male,Coach,C,GER,Germany,Germany,Artistic Gymnastics,,28-12-1969
+1896253,TRUE,BRYLOK Hubert,Male,Coach,C,GER,Germany,Germany,Artistic Gymnastics,,10-02-1960
+1896258,TRUE,TEMME Kay,Male,Coach,C,GER,Germany,Germany,Artistic Gymnastics,,16-08-1971
+1896262,TRUE,PFEFFER Camilla,Female,Coach,C,GER,Germany,Germany,Rhythmic Gymnastics,,24-01-1993
+1896275,TRUE,RASKINA Yuliya,Female,Coach,C,GER,Germany,Germany,Rhythmic Gymnastics,,09-04-1982
+1896279,TRUE,CAMICIOTTI Giacomo,Male,Coach,C,GER,Germany,Germany,Artistic Gymnastics,,20-05-1985
+1896290,TRUE,DUNAVSKA MINEKOVA Kameliya,Female,Coach,C,GER,Germany,Germany,Rhythmic Gymnastics,,21-04-1969
+1896562,TRUE,PARECKI Antoni Jerzy,Male,Assistant Coach,C,JPN,Japan,Japan,Handball,Men,13-06-1960
+1896698,TRUE,SNYMAN Philip,Male,Head Coach,C,RSA,South Africa,South Africa,Rugby Sevens,Men,26-03-1987
+1896700,TRUE,LUCKAN Ghafoer,Male,Assistant Coach,C,RSA,South Africa,South Africa,Rugby Sevens,Men,18-12-1985
+1897091,TRUE,GONZALEZ NUNEZ Arlen,Male,Coach,C,CUB,Cuba,Cuba,Taekwondo,,26-05-1974
+1897234,TRUE,SHARABI Yechiam,Male,Coach,C,ISR,Israel,Israel,Taekwondo,,27-08-1978
+1897292,TRUE,BLECHER SIDOROVA Svetlana,Female,Coach,C,ISR,Israel,Israel,Artistic Swimming,Duet,17-06-1965
+1897395,TRUE,ABDELRAHMAN Osama,Male,Coach,C,EGY,Egypt,Egypt,Taekwondo,,27-11-1973
+1897398,TRUE,YOUSSEF Mohamed,Male,Coach,C,EGY,Egypt,Egypt,Taekwondo,,05-03-1977
+1897518,TRUE,ZAITSEVA Olesia,Female,Coach,C,UKR,Ukraine,Ukraine,Artistic Swimming,Duet,08-11-1974
+1897547,TRUE,SARTYNSKYI Gennadii,Male,Coach,C,UKR,Ukraine,Ukraine,Artistic Gymnastics,,30-10-1953
+1897548,TRUE,GORBACHEVA Iryna,Female,Coach,C,UKR,Ukraine,Ukraine,Artistic Gymnastics,,04-07-1984
+1897550,TRUE,KAIUKOVA Iuliia,Female,Coach,C,UKR,Ukraine,Ukraine,Artistic Gymnastics,,22-08-1989
+1897590,TRUE,DERYUGINA Iryna,Female,Coach,C,UKR,Ukraine,Ukraine,Rhythmic Gymnastics,,11-01-1958
+1897591,TRUE,BLOKHINA Iryna,Female,Coach,C,UKR,Ukraine,Ukraine,Rhythmic Gymnastics,,15-01-1983
+1897592,TRUE,KARDASH Maryna,Female,Coach,C,UKR,Ukraine,Ukraine,Rhythmic Gymnastics,,20-05-1974
+1897594,TRUE,VASYLIEVA Marharyta,Female,Coach,C,UKR,Ukraine,Ukraine,Rhythmic Gymnastics,,02-05-1999
+1897752,TRUE,KHOLOD Maryna,Female,Coach,C,NZL,New Zealand,New Zealand,Artistic Swimming,Duet,23-08-1980
+1897775,TRUE,RA Sanghyun,Male,Coach,C,FIJ,Fiji,Fiji,Taekwondo,,26-07-1972
+1897904,TRUE,KIM Hyou Mi,Female,Coach,C,KOR,Korea,Republic of Korea,Artistic Swimming,Duet,30-11-1983
+1898398,TRUE,ROSILLO ATENCIA Jose Antonio,Male,Coach,C,NOR,Norway,Norway,Taekwondo,,20-05-1990
+1898540,TRUE,LAI Yawen,Female,Assistant Coach,C,CHN,China,People's Republic of China,Volleyball,Women,
+1898944,TRUE,HERBERT Gordie,Male,Coach,C,GER,Germany,Germany,Basketball,Men,16-02-1959
+1898950,TRUE,THOMAIDIS Lisa,Female,Coach,C,GER,Germany,Germany,Basketball,Women,23-07-1971
+1898951,TRUE,PARSONS Sidney,Female,Assistant Coach,C,GER,Germany,Germany,Basketball,Women,05-12-1987
+1898953,TRUE,MEADOWS Clarissa,Female,Assistant Coach,C,GER,Germany,Germany,Basketball,Women,28-05-1984
+1898956,TRUE,THUSS Anne,Female,Coach,C,GER,Germany,Germany,Basketball,,30-01-1963
+1898959,TRUE,PERWAS Klaus,Male,Assistant Coach,C,GER,Germany,Germany,Basketball,Men,08-03-1971
+1898960,TRUE,BRIELMEIER Bret,Male,Coach,C,GER,Germany,Germany,Basketball,,28-11-1985
+1898962,TRUE,HERBERT Daniel,Male,Assistant Coach,C,GER,Germany,Germany,Basketball,Men,28-09-1994
+1899054,TRUE,REVINGTON Paul,Male,Head Coach,C,GBR,Great Britain,Great Britain,Hockey,,07-09-1973
+1899056,TRUE,BROWNE Kwan,Male,Coach,C,GBR,Great Britain,Great Britain,Hockey,,11-12-1977
+1899057,TRUE,GLYNN Katie,Female,Assistant Coach,C,GBR,Great Britain,Great Britain,Hockey,,14-03-1989
+1899058,TRUE,HICKMAN Mark,Male,Coach,C,GBR,Great Britain,Great Britain,Hockey,,22-08-1973
+1899060,TRUE,PAUL Jody,Male,Coach,C,GBR,Great Britain,Great Britain,Hockey,,25-05-1976
+1899061,TRUE,RALPH David,Male,Head Coach,C,GBR,Great Britain,Great Britain,Hockey,,17-08-1972
+1899062,TRUE,SIEBEN Craig,Male,Coach,C,GBR,Great Britain,Great Britain,Hockey,,29-09-1983
+1899085,TRUE,GRESKOWIAK Arne,Male,Coach,C,GER,Germany,Germany,Basketball,,28-07-1984
+1899175,TRUE,HOLGUIN Ramon,Male,Coach,C,DOM,Dominican Republic,Dominican Republic,Artistic Gymnastics,,19-05-1974
+1899285,TRUE,WUDTKE Erik,Male,Assistant Coach,C,GER,Germany,Germany,Handball,Men,17-07-1972
+1899286,TRUE,BEPPLER Jochen,Male,Assistant Coach,C,GER,Germany,Germany,Handball,Women,30-08-1979
+1899289,TRUE,ANDERSSON Mattias,Male,Assistant Coach,C,GER,Germany,Germany,Handball,Men,29-03-1978
+1899294,TRUE,GISLASON Alfred,Male,Head Coach,C,GER,Germany,Germany,Handball,Men,07-09-1959
+1899296,TRUE,GAUGISCH Markus,Male,Head Coach,C,GER,Germany,Germany,Handball,Women,20-04-1974
+1899298,TRUE,JANKOVIC Jasmina,Female,Assistant Coach,C,GER,Germany,Germany,Handball,Women,06-12-1986
+1900728,TRUE,HENRY Thierry,Male,Head Coach,C,FRA,France,France,Football,Men,17-08-1977
+1900729,TRUE,BATICLE Gerald,Male,Assistant Coach,C,FRA,France,France,Football,Men,10-09-1969
+1900730,TRUE,CLICHY Gael,Male,Assistant Coach,C,FRA,France,France,Football,Men,26-07-1985
+1900731,TRUE,JANOT Jeremie,Male,Goalkeeper Coach,C,FRA,France,France,Football,Men,11-10-1977
+1901253,TRUE,PEREIRA BRAVO Joao,Male,Assistant Coach,C,CAN,Canada,Canada,Volleyball,Men,07-01-1979
+1901258,TRUE,SAMMELVUO Tuomas,Male,Head Coach,C,CAN,Canada,Canada,Volleyball,Men,16-02-1976
+1901261,TRUE,HAWKINS Michael,Male,Assistant Coach,C,CAN,Canada,Canada,Volleyball,Men,24-10-1989
+1901805,TRUE,ZHENG Wei,Female,Coach,C,CHN,China,People's Republic of China,Basketball,Women,26-09-1968
+1901806,TRUE,JIA Nan,Male,Coach,C,CHN,China,People's Republic of China,Basketball,,03-03-1974
+1901810,TRUE,PARK Myungsoo,Male,Assistant Coach,C,CHN,China,People's Republic of China,Basketball,,22-02-1962
+1901818,TRUE,RUPEREZ Cesar,Male,Assistant Coach,C,CHN,China,People's Republic of China,Basketball,Women,17-05-1975
+1901832,TRUE,USUI Tomohiro,Male,Coach,C,JPN,Japan,Japan,Basketball,,19-07-1991
+1901835,TRUE,KONNO Kakeru,Male,Assistant Coach,C,JPN,Japan,Japan,Basketball,,26-01-1994
+1901836,TRUE,SUZUKI Yoshikazu,Male,Assistant Coach,C,JPN,Japan,Japan,Basketball,Women,08-06-1979
+1901839,TRUE,ONZUKA Toru,Male,Coach,C,JPN,Japan,Japan,Basketball,Women,05-06-1979
+1901846,TRUE,SASSA Norio,Male,Coach,C,JPN,Japan,Japan,Basketball,,13-05-1984
+1901849,TRUE,GAINES Corey,Male,Assistant Coach,C,JPN,Japan,Japan,Basketball,Men,01-06-1965
+1901850,TRUE,HOVASSE Tom,Male,Coach,C,JPN,Japan,Japan,Basketball,Men,31-01-1967
+1901851,TRUE,KATSUHISA Geoffrey,Male,Assistant Coach,C,JPN,Japan,Japan,Basketball,,18-05-1981
+1902695,TRUE,CHOI Chatchai,Male,Coach,C,THA,Thailand,Thailand,Taekwondo,,30-04-1974
+1902795,TRUE,SONKHAM Chanatip,Female,Coach,C,THA,Thailand,Thailand,Taekwondo,,01-03-1991
+1902914,TRUE,RUSEK Pawel,Male,Assistant Coach,C,POL,Poland,Poland,Volleyball,Men,21-01-1983
+1902918,TRUE,GRBIC Nikola,Male,Head Coach,C,POL,Poland,Poland,Volleyball,Men,06-09-1973
+1902919,TRUE,SWACZYNA Adam,Male,Assistant Coach,C,POL,Poland,Poland,Volleyball,Men,04-05-1989
+1903371,TRUE,MATOSEVIC Valter,Male,Assistant Coach,C,CRO,Croatia,Croatia,Handball,Men,11-06-1970
+1903379,TRUE,SIGURDSSON Dagur,Male,Head Coach,C,CRO,Croatia,Croatia,Handball,Men,03-04-1973
+1903381,TRUE,SPOLJARIC Denis,Male,Assistant Coach,C,CRO,Croatia,Croatia,Handball,Men,20-08-1979
+1903569,TRUE,DUPUIS Kevin,Male,Coach,C,FRA,France,France,Artistic Gymnastics,,12-10-1991
+1903570,TRUE,GEORGE Martine,Female,Coach,C,FRA,France,France,Artistic Gymnastics,,19-10-1974
+1903575,TRUE,POTAPENKO Valentin,Male,Coach,C,FRA,France,France,Artistic Gymnastics,,14-01-1956
+1903577,TRUE,HAGARD Monique,Female,Coach,C,FRA,France,France,Artistic Gymnastics,,08-12-1965
+1903584,TRUE,BARANOVA VOLCHETSKAYA Anna,Female,Coach,C,FRA,France,France,Rhythmic Gymnastics,,03-03-1952
+1903585,TRUE,BAYON Sara,Female,Coach,C,FRA,France,France,Rhythmic Gymnastics,,19-05-1981
+1903590,TRUE,GUILLIERE Katia,Female,Coach,C,FRA,France,France,Rhythmic Gymnastics,,02-12-1973
+1903594,TRUE,MILAN Gregory,Male,Coach,C,FRA,France,France,Rhythmic Gymnastics,,15-03-1973
+1903707,TRUE,ABDELFATTAH Aziza,Female,Coach,C,EGY,Egypt,Egypt,Artistic Swimming,Team,08-12-1990
+1903722,TRUE,MOHAMED Mai,Female,Coach,C,EGY,Egypt,Egypt,Artistic Swimming,Duet,04-04-1990
+1903754,TRUE,LATIF Yasmine,Female,Coach,C,EGY,Egypt,Egypt,Artistic Swimming,Team,12-12-1982
+1903771,TRUE,FABRE Julie,Female,Coach,C,FRA,France,France,Artistic Swimming,Team,27-06-1976
+1903772,TRUE,OBRY Laure,Female,Coach,C,FRA,France,France,Artistic Swimming,Team,02-07-1978
+1903773,TRUE,ANNEQUIN Marie,Female,Coach,C,FRA,France,France,Artistic Swimming,,19-02-1992
+1903829,TRUE,ANGILLIS Pascal,Male,Assistant Coach,C,BEL,Belgium,Belgium,Basketball,,06-03-1972
+1903832,TRUE,KAISER Pierre-Yves,Male,Coach,C,BEL,Belgium,Belgium,Basketball,,16-06-1988
+1903833,TRUE,LORENT Jill,Female,Assistant Coach,C,BEL,Belgium,Belgium,Basketball,Women,31-08-1987
+1903888,TRUE,de SCHEPPER Bram,Male,Coach,C,BEL,Belgium,Belgium,Artistic Gymnastics,,07-07-1988
+1903889,TRUE,DECKX Stefan,Male,Coach,C,BEL,Belgium,Belgium,Artistic Gymnastics,,09-02-1979
+1903900,TRUE,RECKINGER Xavier,Male,Assistant Coach,C,BEL,Belgium,Belgium,Hockey,Men,20-12-1983
+1904214,TRUE,JEONG Eul Jin,Male,Coach,C,KOR,Korea,Republic of Korea,Taekwondo,,23-04-1971
+1904215,TRUE,KANG Bo Hyeon,Female,Coach,C,KOR,Korea,Republic of Korea,Taekwondo,,08-09-1991
+1904220,TRUE,LEE Dongchul,Male,Coach,C,KOR,Korea,Republic of Korea,Taekwondo,,18-03-1978
+1904221,TRUE,OH Hyeri,Female,Coach,C,KOR,Korea,Republic of Korea,Taekwondo,,30-04-1988
+1904223,TRUE,SON Hyo Bong,Male,Coach,C,KOR,Korea,Republic of Korea,Taekwondo,,12-04-1972
+1904759,TRUE,BEAGLEY Michael,Male,Coach,C,GBR,Great Britain,Great Britain,Artistic Gymnastics,,07-11-1968
+1904761,TRUE,CLAY Jenny,Female,Coach,C,GBR,Great Britain,Great Britain,Artistic Gymnastics,,17-05-1988
+1904762,TRUE,COLLIE Barry,Male,Coach,C,GBR,Great Britain,Great Britain,Artistic Gymnastics,,10-01-1979
+1904765,TRUE,HALL Paul,Male,Coach,C,GBR,Great Britain,Great Britain,Artistic Gymnastics,,29-04-1964
+1904766,TRUE,HANN Scott,Male,Coach,C,GBR,Great Britain,Great Britain,Artistic Gymnastics,,26-06-1980
+1904767,TRUE,HOWELLS Ben,Male,Coach,C,GBR,Great Britain,Great Britain,Artistic Gymnastics,,27-03-1976
+1904768,TRUE,INCE Brett,Male,Coach,C,GBR,Great Britain,Great Britain,Artistic Gymnastics,,23-05-1988
+1904769,TRUE,KENWRIGHT David,Male,Coach,C,GBR,Great Britain,Great Britain,Artistic Gymnastics,,25-04-1963
+1904771,TRUE,RICHARDSON Joshua,Male,Coach,C,GBR,Great Britain,Great Britain,Artistic Gymnastics,,15-03-1991
+1904772,TRUE,RICHARDSON Molly,Female,Coach,C,GBR,Great Britain,Great Britain,Artistic Gymnastics,,12-04-1995
+1904775,TRUE,TRANDABURU Ionut,Male,Coach,C,GBR,Great Britain,Great Britain,Artistic Gymnastics,,29-03-1977
+1904996,TRUE,JANKOVSKY Viktor,Male,Coach,C,CZE,Czechia,Czechia,Taekwondo,,16-08-1988
+1904998,TRUE,ZHEREBCHEVSKYI Anton,Male,Coach,C,CZE,Czechia,Czechia,Taekwondo,,21-10-1989
+1904999,TRUE,HYBRANT Bohuslav,Male,Coach,C,CZE,Czechia,Czechia,Taekwondo,,13-03-1968
+1906041,TRUE,FOULARD Gael,Male,Head Coach,C,FRA,France,France,Hockey,,16-04-1972
+1906042,TRUE,JAQUET Nicolas,Male,Assistant Coach,C,FRA,France,France,Hockey,,06-05-1976
+1906448,TRUE,LORANTOS Theodoros,Male,Head Coach,C,FRA,France,France,Water Polo,Women,05-07-1971
+1906454,TRUE,DERENTY Lorene,Female,Assistant Coach,C,FRA,France,France,Water Polo,Women,04-09-1994
+1906462,TRUE,BRUZZO Florian,Male,Head Coach,C,FRA,France,France,Water Polo,Men,12-06-1982
+1906468,TRUE,KOBESCAK Vjekoslav,Male,Assistant Coach,C,FRA,France,France,Water Polo,Men,20-01-1974
+1908234,TRUE,MENDEZ Marcelo,Male,Head Coach,C,ARG,Argentina,Argentina,Volleyball,Men,20-06-1964
+1908241,TRUE,LOPEZ Martin,Male,Assistant Coach,C,ARG,Argentina,Argentina,Volleyball,Men,17-10-1980
+1908245,TRUE,RICO GOLBA Pablo,Male,Assistant Coach,C,ARG,Argentina,Argentina,Volleyball,Men,03-11-1966
+1908299,TRUE,ALVAREZ Jorge,Male,Coach,C,ARG,Argentina,Argentina,Taekwondo,,23-06-1989
+1908401,TRUE,ARROYO Gavin,Male,Assistant Coach,C,USA,United States,United States of America,Water Polo,Men,10-05-1972
+1908402,TRUE,UDOVICIC Dejan,Male,Head Coach,C,USA,United States,United States of America,Water Polo,Men,26-07-1970
+1908403,TRUE,USTASZEWSKI Matt,Male,Assistant Coach,C,USA,United States,United States of America,Water Polo,Men,17-05-1981
+1908408,TRUE,CAHILL Molly,Female,Assistant Coach,C,USA,United States,United States of America,Water Polo,Women,21-04-1985
+1908409,TRUE,KRIKORIAN Adam,Male,Head Coach,C,USA,United States,United States of America,Water Polo,Women,22-07-1974
+1908410,TRUE,OEDING Chris,Male,Assistant Coach,C,USA,United States,United States of America,Water Polo,Women,10-09-1971
+1908549,TRUE,AMADOU Soumaila,Male,Coach,C,NIG,Niger,Niger,Taekwondo,,09-10-1967
+1908649,TRUE,KWIEK Marcos,Male,Head Coach,C,DOM,Dominican Republic,Dominican Republic,Volleyball,Women,18-07-1967
+1908654,TRUE,ROCHA PACHECO Wagner,Male,Assistant Coach,C,DOM,Dominican Republic,Dominican Republic,Volleyball,Women,26-01-1977
+1908776,TRUE,YAMAMOTO Hayato,Male,Assistant Coach,C,JPN,Japan,Japan,Rugby Sevens,Women,16-04-1982
+1908788,TRUE,AMOR Simon Daniel Edward,Male,Head Coach,C,JPN,Japan,Japan,Rugby Sevens,Men,25-04-1979
+1908796,TRUE,SUZUKI Takashi,Male,Head Coach,C,JPN,Japan,Japan,Rugby Sevens,Women,18-01-1981
+1908800,TRUE,SAKATA Takahiro,Male,Assistant Coach,C,JPN,Japan,Japan,Rugby Sevens,Men,07-04-1971
+1908801,TRUE,UMEDA Koichi,Male,Assistant Coach,C,JPN,Japan,Japan,Rugby Sevens,Men,30-05-1987
+1908804,TRUE,KANEMATSU Yuka,Female,Assistant Coach,C,JPN,Japan,Japan,Rugby Sevens,Women,17-06-1982
+1908808,TRUE,SANCHEZ DURAN Wilson,Male,Assistant Coach,C,DOM,Dominican Republic,Dominican Republic,Volleyball,Women,01-07-1977
+1908861,TRUE,ZHANG Xiaohuan,Female,Coach,C,CHN,China,People's Republic of China,Artistic Swimming,Team,19-08-1980
+1908862,TRUE,WANG Jiuli,Female,Coach,C,CHN,China,People's Republic of China,Artistic Swimming,Duet,27-04-1969
+1908863,TRUE,HE Xiaochu,Female,Coach,C,CHN,China,People's Republic of China,Artistic Swimming,,04-04-1982
+1908864,TRUE,SHEN Yingsha,Female,Coach,C,CHN,China,People's Republic of China,Artistic Swimming,,05-01-1979
+1908865,TRUE,TARRES CAMPA Ana,Female,Coach,C,CHN,China,People's Republic of China,Artistic Swimming,Team,19-10-1967
+1908866,TRUE,ZHAO Dantong,Female,Coach,C,CHN,China,People's Republic of China,Artistic Swimming,,13-01-1989
+1909191,TRUE,BUGDAEV Kurban,Male,Coach,C,KSA,Saudi Arabia,Saudi Arabia,Taekwondo,,23-06-1980
+1909799,TRUE,ASMOLOV Natalia,Female,Coach,C,ISR,Israel,Israel,Rhythmic Gymnastics,,19-05-1961
+1909813,TRUE,MAYRIN Ida,Female,Coach,C,ISR,Israel,Israel,Rhythmic Gymnastics,,30-10-1997
+1909827,TRUE,SZUCS Krisztian,Male,Coach,C,HUN,Hungary,Hungary,Taekwondo,,11-12-2000
+1909847,TRUE,STSIAPANAVA Natalia,Female,Coach,C,ISR,Israel,Israel,Rhythmic Gymnastics,,27-10-1973
+1909857,TRUE,VAISBURG Sergei,Male,Coach,C,ISR,Israel,Israel,Artistic Gymnastics,,28-04-1965
+1909866,TRUE,KLEFNER BEN SHIMOL Moran,Female,Coach,C,ISR,Israel,Israel,Artistic Gymnastics,,24-06-1982
+1909923,TRUE,ELNAFRAWY Mohamed,Male,Assistant Coach,C,EGY,Egypt,Egypt,Volleyball,Men,09-06-1983
+1909939,TRUE,BEN JABALLAH Maaouia,Male,Coach,C,TUN,Tunisia,Tunisia,Archery,,28-06-1957
+1910378,TRUE,GUAN Jianmin,Male,Coach,C,CHN,China,People's Republic of China,Taekwondo,,06-05-1963
+1910380,TRUE,KIM Young Jin,Male,Coach,C,CHN,China,People's Republic of China,Taekwondo,,11-12-1976
+1910382,TRUE,KONG Fantao,Female,Coach,C,CHN,China,People's Republic of China,Taekwondo,,13-03-1978
+1910489,TRUE,ZUSSMAN Ayelet,Female,Coach,C,ISR,Israel,Israel,Rhythmic Gymnastics,,27-03-1979
+1910511,TRUE,SAMOFALOV Ela,Female,Coach,C,ISR,Israel,Israel,Rhythmic Gymnastics,,09-05-1966
+1911256,TRUE,ARZA Carlos Vivier,Male,Head Coach,C,ANG,Angola,Angola,Handball,Women,24-10-1973
+1912238,TRUE,CATITO Nelson,Male,Assistant Coach,C,ANG,Angola,Angola,Handball,Women,21-09-1969
+1913681,TRUE,CAI Bin,Male,Head Coach,C,CHN,China,People's Republic of China,Volleyball,Women,04-10-1966
+1913682,TRUE,LI Yanlong,Male,Assistant Coach,C,CHN,China,People's Republic of China,Volleyball,Women,22-03-1980
+1913683,TRUE,YUAN Zhi,Male,Assistant Coach,C,CHN,China,People's Republic of China,Volleyball,Women,29-09-1981
+1914566,TRUE,HYTTEL Tobias,Male,Coach,C,DEN,Denmark,Denmark,Taekwondo,,06-01-2002
+1914822,TRUE,SETTA Tarik,Male,Coach,C,DEN,Denmark,Denmark,Taekwondo,,18-01-1981
+1914903,TRUE,ACHARKI Aziz,Male,Coach,C,DEN,Denmark,Denmark,Taekwondo,,27-03-1972
+1915796,TRUE,TUCAK Ivica,Male,Head Coach,C,CRO,Croatia,Croatia,Water Polo,Men,08-02-1970
+1915797,TRUE,POSINKOVIC Renco,Male,Assistant Coach,C,CRO,Croatia,Croatia,Water Polo,Men,04-01-1964
+1915807,TRUE,MARELJA Jure,Male,Assistant Coach,C,CRO,Croatia,Croatia,Water Polo,Men,01-04-1980
+1915986,TRUE,COURTEIX David,Male,Head Coach,C,FRA,France,France,Rugby Sevens,Women,30-05-1972
+1915987,TRUE,IGARZA Germain,Male,Assistant Coach,C,FRA,France,France,Rugby Sevens,Women,06-06-1983
+1917115,TRUE,COULIBALY Abdoulaye,Male,Assistant Coach,C,MLI,Mali,Mali,Football,,18-03-1985
+1917164,TRUE,DIALLO Badara Alou,Male,Head Coach,C,MLI,Mali,Mali,Football,Men,31-12-1969
+1917720,TRUE,DUNPHY Marv,Male,2nd Assistant Coach,C,USA,United States,United States of America,Volleyball,Women,07-01-1948
+1917721,TRUE,KIRALY Karch,Male,Head Coach,C,USA,United States,United States of America,Volleyball,Women,03-11-1960
+1917722,TRUE,MIYASHIRO Tama,Female,Assistant Coach,C,USA,United States,United States of America,Volleyball,Women,08-07-1987
+1917723,TRUE,REFT Alfee,Male,Assistant Coach,C,USA,United States,United States of America,Volleyball,Women,15-12-1982
+1917725,TRUE,VIRTUE Erin,Female,Assistant Coach,C,USA,United States,United States of America,Volleyball,Women,13-04-1983
+1917858,TRUE,BROWN Gareth,Male,Coach,C,USA,United States,United States of America,Taekwondo,,23-03-1979
+1918016,TRUE,FUERBRINGER Matt,Male,Assistant Coach,C,USA,United States,United States of America,Volleyball,Men,29-01-1974
+1918018,TRUE,SPERAW John,Male,Head Coach,C,USA,United States,United States of America,Volleyball,Men,18-10-1971
+1918019,TRUE,WEBER Javi,Male,Assistant Coach,C,USA,United States,United States of America,Volleyball,Men,06-01-1966
+1918026,TRUE,WALL Mike,Male,Assistant Coach,C,USA,United States,United States of America,Volleyball,Men,
+1918543,TRUE,TOKUMOTO Yukito,Male,Assistant Coach,C,JPN,Japan,Japan,Volleyball,Women,09-10-1976
+1918556,TRUE,BLAIN Philippe,Male,Head Coach,C,JPN,Japan,Japan,Volleyball,Men,20-05-1960
+1918560,TRUE,FUKATSU Takayuki,Male,Assistant Coach,C,JPN,Japan,Japan,Volleyball,Men,09-11-1988
+1918568,TRUE,ITOH Kenji,Male,Assistant Coach,C,JPN,Japan,Japan,Volleyball,Men,13-09-1981
+1918571,TRUE,MANABE Masayoshi,Male,Head Coach,C,JPN,Japan,Japan,Volleyball,Women,21-08-1963
+1918572,TRUE,KAWAKITA Gen,Male,Assistant Coach,C,JPN,Japan,Japan,Volleyball,Women,25-03-1976
+1918766,TRUE,REZA Surian,Male,Coach,C,NZL,New Zealand,New Zealand,Artistic Gymnastics,,08-10-1987
+1918882,TRUE,CHEN Wei,Male,Coach,C,CHN,China,People's Republic of China,Artistic Gymnastics,,10-12-1968
+1918883,TRUE,HE Hua,Female,Coach,C,CHN,China,People's Republic of China,Artistic Gymnastics,,08-10-1974
+1918884,TRUE,JIN Weiguo,Male,Coach,C,CHN,China,People's Republic of China,Artistic Gymnastics,,30-11-1967
+1918885,TRUE,LI Dezhi,Male,Coach,C,CHN,China,People's Republic of China,Artistic Gymnastics,,20-09-1981
+1918886,TRUE,LIU Jinyu,Male,Coach,C,CHN,China,People's Republic of China,Artistic Gymnastics,,17-02-1982
+1918887,TRUE,LIU Tao,Male,Coach,C,CHN,China,People's Republic of China,Artistic Gymnastics,,26-06-1974
+1918889,TRUE,LU le,Male,Coach,C,CHN,China,People's Republic of China,Artistic Gymnastics,,10-06-1987
+1918890,TRUE,SUN Ping,Female,Coach,C,CHN,China,People's Republic of China,Artistic Gymnastics,,09-11-1977
+1918891,TRUE,TENG Haibin,Male,Coach,C,CHN,China,People's Republic of China,Artistic Gymnastics,,02-01-1985
+1918893,TRUE,WANG Liming,Male,Coach,C,CHN,China,People's Republic of China,Artistic Gymnastics,,01-03-1972
+1918894,TRUE,XU Jinglei,Female,Coach,C,CHN,China,People's Republic of China,Artistic Gymnastics,,01-11-1967
+1918895,TRUE,ZHANG Haiyan,Female,Coach,C,CHN,China,People's Republic of China,Artistic Gymnastics,,05-01-1975
+1918896,TRUE,ZHENG Hao,Male,Coach,C,CHN,China,People's Republic of China,Artistic Gymnastics,,30-01-1977
+1918907,TRUE,YE Sheng,Male,Coach,C,CHN,China,People's Republic of China,Artistic Gymnastics,,14-04-1977
+1919322,TRUE,SOTOMURA Kazutoshi,Male,Coach,C,JPN,Japan,Japan,Artistic Gymnastics,,26-12-1985
+1919328,TRUE,SHINTAKU Yuya,Male,Coach,C,JPN,Japan,Japan,Artistic Gymnastics,,03-11-1983
+1919335,TRUE,TOYOSHIMA Risa,Female,Coach,C,JPN,Japan,Japan,Artistic Gymnastics,,15-08-1977
+1919338,TRUE,TANAKA Hikaru,Male,Coach,C,JPN,Japan,Japan,Artistic Gymnastics,,19-07-1972
+1919341,TRUE,SATO Hiroaki,Male,Coach,C,JPN,Japan,Japan,Artistic Gymnastics,,14-04-1989
+1919343,TRUE,SAITO Yoshihiro,Male,Coach,C,JPN,Japan,Japan,Artistic Gymnastics,,29-08-1976
+1919511,TRUE,JUN Jung Hooi,Male,Coach,C,TJK,Tajikistan,Tajikistan,Taekwondo,,01-09-1964
+1919719,TRUE,LIKHADZIYEUSKI Anatoli,Male,Coach,C,AIN,AIN,AIN,Taekwondo,,08-05-1967
+1919734,TRUE,ANTONYAN Sahak,Male,Coach,C,ARM,Armenia,Armenia,Artistic Gymnastics,,17-01-1992
+1919736,TRUE,BERZHETS Viachaslau,Male,Coach,C,AIN,AIN,AIN,Taekwondo,,15-08-1965
+1919740,TRUE,NAZARYAN Hayk,Male,Coach,C,ARM,Armenia,Armenia,Artistic Gymnastics,,13-10-1983
+1919741,TRUE,OGANESIANTC Avetis,Male,Coach,C,AIN,AIN,AIN,Taekwondo,,06-08-1964
+1921141,TRUE,de GIORGI Ferdinando,Male,Head Coach,C,ITA,Italy,Italy,Volleyball,Men,10-10-1961
+1921142,TRUE,CAPONERI Massimo,Male,Assistant Coach,C,ITA,Italy,Italy,Volleyball,Men,22-05-1964
+1921143,TRUE,GIOLITO Nicola,Male,Assistant Coach,C,ITA,Italy,Italy,Volleyball,Men,12-09-1976
+1921148,TRUE,VELASCO Julio,Male,Head Coach,C,ITA,Italy,Italy,Volleyball,Women,09-02-1952
+1921149,TRUE,BARBOLINI Massimo,Male,Assistant Coach,C,ITA,Italy,Italy,Volleyball,Women,29-08-1964
+1921150,TRUE,BERNARDI Lorenzo,Male,Assistant Coach,C,ITA,Italy,Italy,Volleyball,Women,11-08-1968
+1922666,TRUE,van DAMME Koen,Male,Coach,C,BEL,Belgium,Belgium,Artistic Gymnastics,,29-04-1987
+1924891,TRUE,DUGONJIC Ivo Martin,Male,Head Coach,C,URU,Uruguay,Uruguay,Rugby Sevens,Men,12-06-1985
+1924892,TRUE,PUIG CARPANETO Gabriel,Male,Assistant Coach,C,URU,Uruguay,Uruguay,Rugby Sevens,Men,04-02-1990
+1924915,TRUE,PRUNSKAS Algimantas,Male,Coach,C,LTU,Lithuania,Lithuania,Artistic Gymnastics,,11-04-1960
+1925565,TRUE,CAMPAGNA Alessandro,Male,Head Coach,C,ITA,Italy,Italy,Water Polo,Men,26-06-1963
+1925566,TRUE,SILIPO Carlo,Male,Head Coach,C,ITA,Italy,Italy,Water Polo,Women,10-09-1971
+1925568,TRUE,FARINELLI Roberta,Female,Coach,C,ITA,Italy,Italy,Artistic Swimming,Team,06-02-1970
+1925590,TRUE,POMILIO Amedeo,Male,Assistant Coach,C,ITA,Italy,Italy,Water Polo,Men,11-02-1967
+1925602,TRUE,GIALLOMBARDO Patrizia,Female,Coach,C,ITA,Italy,Italy,Artistic Swimming,Team,19-07-1964
+1925620,TRUE,di CECCA Cosimino,Male,Assistant Coach,C,ITA,Italy,Italy,Water Polo,Women,28-08-1973
+1925740,TRUE,JANECKOVA Katerina,Female,Coach,C,CZE,Czechia,Czechia,Artistic Gymnastics,,23-05-1976
+1925948,TRUE,LEAL COLMENAREZ Mario,Male,Coach,C,VEN,Venezuela,Venezuela,Taekwondo,,16-11-1984
+1926042,TRUE,MOHAMMED Aisha,Female,Coach,C,NGR,Nigeria,Nigeria,Basketball,,21-10-1985
+1926057,TRUE,GARCIA CABRERA David,Male,Coach,C,PUR,Puerto Rico,Puerto Rico,Basketball,,22-06-1982
+1926527,TRUE,DELANEY Mike,Male,Assistant Coach,C,NZL,New Zealand,New Zealand,Hockey,,17-04-1989
+1926529,TRUE,McALEESE Shea,Male,Assistant Coach,C,NZL,New Zealand,New Zealand,Hockey,,07-08-1984
+1926530,TRUE,CLARK Gregg,Male,Assistant Coach,C,NZL,New Zealand,New Zealand,Hockey,,11-01-1971
+1926532,TRUE,NICOL Greg,Male,Head Coach,C,NZL,New Zealand,New Zealand,Hockey,,02-04-1975
+1926601,TRUE,MACKINTOSH Euan,Male,Assistant Coach,C,NZL,New Zealand,New Zealand,Rugby Sevens,Men,06-09-1985
+1926602,TRUE,SWEENEY Cory,Male,Head Coach,C,NZL,New Zealand,New Zealand,Rugby Sevens,Women,08-03-1978
+1926603,TRUE,GIBBS Rodney,Male,Assistant Coach,C,NZL,New Zealand,New Zealand,Rugby Sevens,Men,12-05-1969
+1926604,TRUE,COCKER Edwin,Male,Assistant Coach,C,NZL,New Zealand,New Zealand,Rugby Sevens,Women,03-11-1980
+1926605,TRUE,CAMA Tomasi,Male,Head Coach,C,NZL,New Zealand,New Zealand,Rugby Sevens,Men,11-11-1980
+1926606,TRUE,ROSS Stu,Male,Assistant Coach,C,NZL,New Zealand,New Zealand,Rugby Sevens,Women,26-01-1976
+1926607,TRUE,MURPHY Amanda,Female,Assistant Coach,C,NZL,New Zealand,New Zealand,Rugby Sevens,Women,
+1926612,TRUE,McMASTER Travis,Male,Assistant Coach,C,NZL,New Zealand,New Zealand,Rugby Sevens,Men,
+1927174,TRUE,ANNAN Alyson Regina,Female,Head Coach,C,CHN,China,People's Republic of China,Hockey,,21-06-1973
+1927222,TRUE,LU Zhuan,Male,Head Coach,C,CHN,China,People's Republic of China,Rugby Sevens,Women,18-11-1983
+1927223,TRUE,PASQUALETTI Massimo,Male,Assistant Coach,C,CHN,China,People's Republic of China,Rugby Sevens,Women,11-08-1988
+1927270,TRUE,GOMEZ AGUERA Salvador Emilio,Male,Assistant Coach,C,CHN,China,People's Republic of China,Water Polo,Women,11-03-1968
+1927271,TRUE,JANE GIRALT Juan,Male,Head Coach,C,CHN,China,People's Republic of China,Water Polo,Women,31-05-1953
+1927274,TRUE,WU Zhiyu,Male,Assistant Coach,C,CHN,China,People's Republic of China,Water Polo,Women,09-09-1983
+1927534,TRUE,QU Tao,Female,Coach,C,CHN,China,People's Republic of China,Rhythmic Gymnastics,,23-04-1973
+1927535,TRUE,SUN Dan,Female,Coach,C,CHN,China,People's Republic of China,Rhythmic Gymnastics,,04-09-1986
+1927537,TRUE,XU Yanshu,Female,Coach,C,CHN,China,People's Republic of China,Rhythmic Gymnastics,,14-07-1998
+1927542,TRUE,BLIZNYUK Anastasia,Female,Coach,C,CHN,China,People's Republic of China,Rhythmic Gymnastics,,28-06-1994
+1927873,TRUE,LARHOLM Erik Jonas,Male,Assistant Coach,C,KOR,Korea,Republic of Korea,Handball,Women,25-01-1981
+1927879,TRUE,RADIC Vanja,Female,Assistant Coach,C,KOR,Korea,Republic of Korea,Handball,Women,06-05-1983
+1927880,TRUE,SIGNELL Kurt Henrik,Male,Head Coach,C,KOR,Korea,Republic of Korea,Handball,Women,02-01-1976
+1927972,TRUE,AGAFONTSEV Sergiy,Male,Coach,C,HKG,"Hong Kong, China","Hong Kong, China",Artistic Gymnastics,,07-07-1970
+1928060,TRUE,KRCE Lucijan,Male,Coach,C,CRO,Croatia,Croatia,Artistic Gymnastics,,30-01-1975
+1928061,TRUE,MADAREVIC Vladimir,Male,Coach,C,CRO,Croatia,Croatia,Artistic Gymnastics,,17-08-1972
+1928154,TRUE,MWAPE Bruce,Male,Head Coach,C,ZAM,Zambia,Zambia,Football,Women,26-10-1959
+1928466,TRUE,LAVARINI Stefano,Male,Head Coach,C,POL,Poland,Poland,Volleyball,Women,17-01-1979
+1928467,TRUE,VETTORI Nicola,Male,Assistant Coach,C,POL,Poland,Poland,Volleyball,Women,06-05-1971
+1928468,TRUE,PACHLINSKI Krystian,Male,Assistant Coach,C,POL,Poland,Poland,Volleyball,Women,23-08-1988
+1928469,TRUE,SUFA Bartosz,Male,Assistant Coach,C,POL,Poland,Poland,Volleyball,Women,11-08-1987
+1928714,TRUE,NTHALA Charity,Female,Assistant Coach,C,ZAM,Zambia,Zambia,Football,Women,30-08-1990
+1929274,TRUE,KOHLOFFEL Markus,Male,Coach,C,EOR,EOR,Refugee Olympic Team,Taekwondo,,25-01-1971
+1929291,TRUE,ZAREEI SHAMSABADI Manni,Male,Coach,C,EOR,EOR,Refugee Olympic Team,Taekwondo,,04-07-1985
+1929319,TRUE,SABAH Asif,Male,Coach,C,EOR,EOR,Refugee Olympic Team,Taekwondo,,18-09-1969
+1929643,TRUE,YUSSUPOVA Aliya,Female,Coach,C,KAZ,Kazakhstan,Kazakhstan,Rhythmic Gymnastics,,15-05-1984
+1929644,TRUE,DUISENGALIYEVA Danissa,Female,Coach,C,KAZ,Kazakhstan,Kazakhstan,Rhythmic Gymnastics,,11-11-1995
+1929663,TRUE,NOLANO Claudio,Male,Coach,C,ITA,Italy,Italy,Taekwondo,,22-09-1975
+1929717,TRUE,ALFARO RODRIGUEZ Santiago,Male,Assistant Coach,C,URU,Uruguay,Uruguay,Rugby Sevens,Men,
+1930009,TRUE,LEE KIM Daniel,Male,Coach,C,URU,Uruguay,Uruguay,Taekwondo,,31-01-1979
+1930168,TRUE,RENARD Herve,Male,Head Coach,C,FRA,France,France,Football,Women,30-09-1968
+1930169,TRUE,BONADEI Laurent,Male,Assistant Coach,C,FRA,France,France,Football,,03-11-1969
+1930171,TRUE,BLAHIC Eric,Male,Assistant Coach,C,FRA,France,France,Football,,02-05-1965
+1930172,TRUE,FOUACHE Gilles,Male,Goalkeeper Coach,C,FRA,France,France,Football,,09-11-1973
+1930294,TRUE,MAMAYEV Nursultan,Male,Coach,C,KAZ,Kazakhstan,Kazakhstan,Taekwondo,,27-06-1993
+1930295,TRUE,KIM Kwangsu,Male,Coach,C,KAZ,Kazakhstan,Kazakhstan,Taekwondo,,02-12-1972
+1930296,TRUE,BESBAYEV Olzhas,Male,Coach,C,KAZ,Kazakhstan,Kazakhstan,Taekwondo,,16-12-1986
+1930311,TRUE,SAGYNAYEV Kanat,Male,Coach,C,KAZ,Kazakhstan,Kazakhstan,Taekwondo,,09-11-1973
+1930636,TRUE,DOBLER Mauro,Male,Goalkeeper Coach,C,ARG,Argentina,Argentina,Football,,
+1930646,TRUE,ECHEVERRY Alex,Male,Assistant Coach,C,COL,Colombia,Colombia,Football,,
+1930666,TRUE,PHIRI Yona,Male,Goalkeeper Coach,C,ZAM,Zambia,Zambia,Football,Women,27-04-1980
+1930695,TRUE,GRAND'PIERRE Naomy Hope,Female,Coach,C,HAI,Haiti,Haiti,Artistic Gymnastics,,16-04-1997
+1930765,TRUE,LAMBDIN Stephen,Male,Coach,C,USA,United States,United States of America,Taekwondo,,09-03-1988
+1930922,TRUE,ABARCA Megan,Female,Coach,C,USA,United States,United States of America,Artistic Swimming,Duet,14-08-1990
+1931463,TRUE,MWILA Florence,Female,Assistant Coach,C,ZAM,Zambia,Zambia,Football,Women,26-03-1986
+1931488,TRUE,ELFAKHARANY Hany,Male,Assistant Coach,C,EGY,Egypt,Egypt,Handball,Men,06-04-1978
+1931494,TRUE,SIERRA MENDEZ Jose Manuel,Male,Assistant Coach,C,EGY,Egypt,Egypt,Handball,Men,21-05-1978
+1931502,TRUE,PASTOR GOMEZ Juan Carlos,Male,Head Coach,C,EGY,Egypt,Egypt,Handball,Men,18-05-1968
+1931612,TRUE,VATKIN Vladimir,Male,Coach,C,KAZ,Kazakhstan,Kazakhstan,Artistic Gymnastics,,03-08-1959
+1931614,TRUE,KURBANOV Khussanzhan,Male,Coach,C,KAZ,Kazakhstan,Kazakhstan,Artistic Gymnastics,,01-02-1961
+1931616,TRUE,KENESSOV Sapargali,Male,Coach,C,KAZ,Kazakhstan,Kazakhstan,Artistic Gymnastics,,12-08-1992
+1932162,TRUE,ALMAAZMI Abdalla,Male,Coach,C,PLE,Palestine,Palestine,Taekwondo,,27-01-1977
+1932176,TRUE,RODRIGUEZ VAQUERO Jose Maria,Male,Head Coach,C,HUN,Hungary,Hungary,Handball,Men,05-01-1980
+1932535,TRUE,VELASCO ENCINAS Miguel Angel,Male,Assistant Coach,C,HUN,Hungary,Hungary,Handball,Men,20-03-1984
+1933104,TRUE,ZOLGHADRI Farzad,Male,Coach,C,BUL,Bulgaria,Bulgaria,Taekwondo,,09-05-1992
+1933362,TRUE,GOLOVIN Vlagyimir Alekszandrovics,Male,Head Coach,C,HUN,Hungary,Hungary,Handball,Women,21-03-1970
+1933372,TRUE,PIGNICZKI Krisztina,Female,Assistant Coach,C,HUN,Hungary,Hungary,Handball,Women,18-09-1975
+1933474,TRUE,MASCHERANO Javier,Male,Head Coach,C,ARG,Argentina,Argentina,Football,Men,08-06-1984
+1933569,TRUE,MARSIGLIA Angelo,Male,Head Coach,C,COL,Colombia,Colombia,Football,Women,20-12-1985
+1933763,TRUE,RODRIGUEZ Lucas,Male,Assistant Coach,C,ARG,Argentina,Argentina,Football,,
+1934022,TRUE,STILLITANO Leandro,Male,Assistant Coach,C,ARG,Argentina,Argentina,Football,,
+1934443,TRUE,AGUILAR ESTRADA Eduardo,Male,Assistant Coach,C,ESP,Spain,Spain,Hockey,,06-12-1976
+1934447,TRUE,CALDAS Maximiliano,Male,Head Coach,C,ESP,Spain,Spain,Hockey,,09-03-1973
+1934451,TRUE,GARCIA CUENCA Carlos,Male,Head Coach,C,ESP,Spain,Spain,Hockey,,26-01-1973
+1934452,TRUE,GAVILAN MORAL Diego Manuel,Male,Coach,C,ESP,Spain,Spain,Hockey,,30-11-1978
+1934457,TRUE,GUTIERREZ ZULAICA Lorena,Female,Coach,C,ESP,Spain,Spain,Hockey,,27-08-1990
+1934462,TRUE,IGLESIAS BILBAO Alejandro,Male,Assistant Coach,C,ESP,Spain,Spain,Hockey,,21-06-1980
+1934463,TRUE,JARO MOLINA Rafael,Male,Coach,C,ESP,Spain,Spain,Hockey,,28-06-1984
+1934464,TRUE,LAZARO REINA Jordi,Male,Coach,C,ESP,Spain,Spain,Hockey,,28-06-1987
+1934466,TRUE,MOVELLAN de la MAZA Borja,Male,Coach,C,ESP,Spain,Spain,Hockey,,24-12-1979
+1934467,TRUE,PALOMERO MARTIN Oscar,Male,Coach,C,ESP,Spain,Spain,Hockey,,24-11-1973
+1934811,TRUE,PEREZ Carlos,Male,Goalkeeper Coach,C,COL,Colombia,Colombia,Football,Women,
+1934831,TRUE,CANTWELL Lynne,Female,Head Coach,C,RSA,South Africa,South Africa,Rugby Sevens,,27-09-1981
+1934833,TRUE,DAZEL Renfred,Male,Head Coach,C,RSA,South Africa,South Africa,Rugby Sevens,Women,04-05-1981
+1934834,TRUE,MOLOPYANE Obakeng,Male,Assistant Coach,C,RSA,South Africa,South Africa,Rugby Sevens,Women,17-03-1993
+1934835,TRUE,PARKER Naasier,Male,Head Coach,C,RSA,South Africa,South Africa,Rugby Sevens,,16-04-1988
+1934837,TRUE,AFRIKA Cecil,Male,Assistant Coach,C,RSA,South Africa,South Africa,Rugby Sevens,Women,03-05-1988
+1935326,TRUE,WAKAMA Rena,Female,Coach,C,NGR,Nigeria,Nigeria,Basketball,Women,11-04-1992
+1935341,TRUE,OLAJUWON Alon,Female,Coach,C,NGR,Nigeria,Nigeria,Basketball,,06-07-1998
+1935667,TRUE,FUENTES Andrea,Female,Coach,C,USA,United States,United States of America,Artistic Swimming,Team,07-04-1983
+1935669,TRUE,TEIXEIRA Lara,Female,Coach,C,USA,United States,United States of America,Artistic Swimming,Team,26-11-1987
+1935695,TRUE,RUIZ CASAS Jairo,Male,Coach,C,COL,Colombia,Colombia,Artistic Gymnastics,,19-06-1956
+1935699,TRUE,LIM Alison,Female,Coach,C,COL,Colombia,Colombia,Artistic Gymnastics,,13-03-1983
+1935822,TRUE,ALONSO CALVO Adria,Male,Coach,C,ESP,Spain,Spain,Artistic Gymnastics,,30-09-1992
+1935823,TRUE,BANGO MELCON Benjamin,Male,Coach,C,ESP,Spain,Spain,Artistic Gymnastics,,18-11-1965
+1935824,TRUE,BOTELLA PEREZ de LANDAZAB Isaac,Male,Coach,C,ESP,Spain,Spain,Artistic Gymnastics,,12-06-1984
+1935825,TRUE,CARRASCAL RUBIO Alvaro,Male,Coach,C,ESP,Spain,Spain,Artistic Gymnastics,,24-07-1985
+1935826,TRUE,CASIMIRO ROS Javier,Male,Coach,C,ESP,Spain,Spain,Artistic Gymnastics,,20-09-1969
+1935827,TRUE,GUISADO MUNOZ Lucia,Female,Coach,C,ESP,Spain,Spain,Artistic Gymnastics,,17-02-1965
+1935828,TRUE,MARTINEZ SANCHEZ Manuel Angel,Male,Coach,C,ESP,Spain,Spain,Artistic Gymnastics,,21-06-1968
+1935829,TRUE,MIR HOMAR Pedro,Male,Coach,C,ESP,Spain,Spain,Artistic Gymnastics,,09-12-1965
+1935830,TRUE,RUEDA BRAVO Eva,Female,Coach,C,ESP,Spain,Spain,Artistic Gymnastics,,13-09-1971
+1935831,TRUE,SAN JOSE CRISTOBAL Almudena,Female,Coach,C,ESP,Spain,Spain,Artistic Gymnastics,,02-12-1964
+1935832,TRUE,BROWN LOPEZ Dagmara,Female,Coach,C,ESP,Spain,Spain,Rhythmic Gymnastics,,05-10-1955
+1935833,TRUE,FERRANDEZ ARENAS Monica,Female,Coach,C,ESP,Spain,Spain,Rhythmic Gymnastics,,25-10-1974
+1935834,TRUE,GARCIA GARCES Maria,Female,Coach,C,ESP,Spain,Spain,Rhythmic Gymnastics,,03-05-1991
+1935835,TRUE,LINARES GARCIA Marta,Female,Coach,C,ESP,Spain,Spain,Rhythmic Gymnastics,,31-01-1986
+1935836,TRUE,MALCHAIR SELECQUE Caroline Martine,Female,Coach,C,ESP,Spain,Spain,Rhythmic Gymnastics,,31-05-1982
+1935837,TRUE,PELAZ MOTA Ana,Female,Coach,C,ESP,Spain,Spain,Rhythmic Gymnastics,,24-09-1987
+1935838,TRUE,QUEREDA FLORES Alejandra,Female,Coach,C,ESP,Spain,Spain,Rhythmic Gymnastics,,24-07-1992
+1936384,TRUE,KASSMAN Edward,Male,Coach,C,PNG,Papua New Guinea,Papua New Guinea,Taekwondo,,10-01-1978
+1936918,TRUE,PABLO Jose,Male,Assistant Coach,C,ANG,Angola,Angola,Handball,Women,03-10-1969
+1938936,TRUE,FERREIRINHA Jose,Male,Coach,C,POR,Portugal,Portugal,Artistic Gymnastics,,01-09-1964
+1940069,TRUE,CAPORN Adam,Male,Assistant Coach,C,AUS,Australia,Australia,Basketball,,16-03-1982
+1940074,TRUE,GOORJIAN Brian,Male,Coach,C,AUS,Australia,Australia,Basketball,Men,28-06-1953
+1940075,TRUE,CHAMBERS Cheryl,Female,Assistant Coach,C,AUS,Australia,Australia,Basketball,Women,18-04-1968
+1940078,TRUE,PATRICK David,Male,Coach,C,AUS,Australia,Australia,Basketball,,21-02-1976
+1940088,TRUE,NIELSEN Matt,Male,Assistant Coach,C,AUS,Australia,Australia,Basketball,Men,03-02-1978
+1940089,TRUE,GORISS Paul,Male,Assistant Coach,C,AUS,Australia,Australia,Basketball,,28-04-1970
+1940092,TRUE,CARROLL Ryan,Male,Coach,C,AUS,Australia,Australia,Basketball,,02-03-1980
+1940093,TRUE,BRONDELLO Sandy,Female,Coach,C,AUS,Australia,Australia,Basketball,Women,20-08-1968
+1940094,TRUE,SEEBHOM Shannon,Male,Coach,C,AUS,Australia,Australia,Basketball,,01-02-1988
+1940331,TRUE,PYSMENNA Oksana,Female,Coach,C,KOR,Korea,Republic of Korea,Artistic Swimming,Duet,15-05-1972
+1940570,TRUE,CHOI Jungyeol,Male,Coach,C,KOR,Korea,Republic of Korea,Artistic Gymnastics,,06-08-1982
+1940575,TRUE,KIM Daeeun,Male,Coach,C,KOR,Korea,Republic of Korea,Artistic Gymnastics,,17-09-1984
+1940578,TRUE,KIM Jihoon,Male,Coach,C,KOR,Korea,Republic of Korea,Artistic Gymnastics,,09-08-1984
+1940583,TRUE,LEE Sunsung,Male,Coach,C,KOR,Korea,Republic of Korea,Artistic Gymnastics,,26-12-1980
+1940584,TRUE,MIN Ayoung,Female,Coach,C,KOR,Korea,Republic of Korea,Artistic Gymnastics,,28-01-1975
+1940930,TRUE,CSEH Sandor Viktor,Male,Assistant Coach,C,HUN,Hungary,Hungary,Water Polo,Women,05-09-1976
+1941188,TRUE,MUNALA Japheth,Male,Head Coach,C,KEN,Kenya,Kenya,Volleyball,Women,30-11-1963
+1941189,TRUE,BARASA James,Male,Assistant Coach,C,KEN,Kenya,Kenya,Volleyball,Women,08-10-1970
+1941198,TRUE,MIHOK Attila,Male,Head Coach,C,HUN,Hungary,Hungary,Water Polo,Women,06-10-1973
+1941323,TRUE,TORTOSA Hugo,Male,Coach,C,LES,Lesotho,Lesotho,Taekwondo,,11-10-1999
+1941674,TRUE,TOPARI Yusuf,Male,Coach,C,AUS,Australia,Australia,Artistic Gymnastics,,27-02-1987
+1941682,TRUE,MITCHELL Katie,Female,Coach,C,AUS,Australia,Australia,Rhythmic Gymnastics,,18-04-1979
+1941683,TRUE,BARABACH Mikhail,Male,Coach,C,AUS,Australia,Australia,Artistic Gymnastics,,06-01-1955
+1941685,TRUE,WILSON Sean,Male,Coach,C,AUS,Australia,Australia,Artistic Gymnastics,,21-06-1989
+1941686,TRUE,BELAN Tatsiana,Female,Coach,C,AUS,Australia,Australia,Rhythmic Gymnastics,,10-11-1982
+1941689,TRUE,LI Xiaoqing,Female,Coach,C,AUS,Australia,Australia,Artistic Gymnastics,,14-01-1971
+1941847,TRUE,DOUMBIA Bounafou,Male,Goalkeeper Coach,C,MLI,Mali,Mali,Football,,22-07-1980
+1941852,TRUE,BARRETO Diego,Male,Goalkeeper Coach,C,PAR,Paraguay,Paraguay,Football,,
+1942626,TRUE,DENIA Santi,Male,Head Coach,C,ESP,Spain,Spain,Football,Men,09-03-1974
+1942627,TRUE,GORDO David,Male,Assistant Coach,C,ESP,Spain,Spain,Football,,02-02-1970
+1942638,TRUE,MARTINEZ Ruben,Male,Goalkeeper Coach,C,ESP,Spain,Spain,Football,,
+1942803,TRUE,ZIMMERMANN Matthieu,Male,Coach,C,BEL,Belgium,Belgium,Artistic Gymnastics,,22-02-1986
+1942804,TRUE,EHREN Raoul,Male,Head Coach,C,BEL,Belgium,Belgium,Hockey,,24-04-1973
+1942806,TRUE,McLEOD Shane,Male,Assistant Coach,C,BEL,Belgium,Belgium,Hockey,Men,04-09-1968
+1942816,TRUE,GAMBLUCH Leonardo,Male,Coach,C,BEL,Belgium,Belgium,Taekwondo,,03-09-1973
+1942828,TRUE,VARGA Zsolt,Male,Head Coach,C,HUN,Hungary,Hungary,Water Polo,Men,09-03-1972
+1942869,TRUE,UGLESSICH Mariano,Male,Assistant Coach,C,PAR,Paraguay,Paraguay,Football,,
+1943302,TRUE,HAYES Emma,Female,Head Coach,C,USA,United States,United States of America,Football,Women,18-10-1976
+1943308,TRUE,REDDY Denise,Female,Assistant Coach,C,USA,United States,United States of America,Football,Women,14-09-1970
+1943311,TRUE,SEARLE Stuart,Male,Goalkeeper Coach,C,USA,United States,United States of America,Football,Women,27-02-1979
+1943842,TRUE,JARA SAGUIER Carlos,Male,Head Coach,C,PAR,Paraguay,Paraguay,Football,Men,01-11-1950
+1944188,TRUE,COVELO Alex,Male,Assistant Coach,C,USA,United States,United States of America,Football,Men,19-05-1978
+1944189,TRUE,MITROVIC Marko,Male,Head Coach,C,USA,United States,United States of America,Football,Men,08-07-1978
+1944190,TRUE,PAYNE Russell,Male,Goalkeeper Coach,C,USA,United States,United States of America,Football,Men,03-07-1975
+1944191,TRUE,SEGARES Gonzalo,Male,Assistant Coach,C,USA,United States,United States of America,Football,Men,13-10-1982
+1944971,TRUE,MAYNE Michael,Male,Head Coach,C,NZL,New Zealand,New Zealand,Football,Women,15-02-1985
+1944972,TRUE,REED Duncan,Male,Goalkeeper Coach,C,NZL,New Zealand,New Zealand,Football,,25-11-1990
+1944973,TRUE,BAZELEY Darren,Male,Head Coach,C,NZL,New Zealand,New Zealand,Football,Men,05-10-1972
+1944974,TRUE,GOTHARD Paul,Male,Goalkeeper Coach,C,NZL,New Zealand,New Zealand,Football,Men,24-06-1974
+1944977,TRUE,READINGS Tony,Male,Assistant Coach,C,NZL,New Zealand,New Zealand,Football,Men,27-10-1975
+1944979,TRUE,ELLIOTT Simon,Male,Assistant Coach,C,NZL,New Zealand,New Zealand,Football,Men,10-06-1974
+1945000,TRUE,SARVER Keri,Female,Assistant Coach,C,NZL,New Zealand,New Zealand,Football,,30-03-1976
+1945433,TRUE,POTTER Anthony,Male,Assistant Coach,C,AUS,Australia,Australia,Hockey,,11-05-1972
+1945439,TRUE,BATCH Colin,Male,Head Coach,C,AUS,Australia,Australia,Hockey,,27-03-1958
+1945443,TRUE,STANIFORTH Dave,Male,Coach,C,AUS,Australia,Australia,Hockey,,05-04-1976
+1945447,TRUE,MURRAY Emma,Female,Assistant Coach,C,AUS,Australia,Australia,Hockey,Women,
+1945451,TRUE,PURVIS Hugh,Male,Assistant Coach,C,AUS,Australia,Australia,Hockey,,03-08-1991
+1945457,TRUE,DAVY Jeremy,Male,Coach,C,AUS,Australia,Australia,Hockey,,03-07-1973
+1945459,TRUE,POWELL Katrina,Female,Head Coach,C,AUS,Australia,Australia,Hockey,,08-04-1972
+1945474,TRUE,HAMMOND Rob,Male,Coach,C,AUS,Australia,Australia,Hockey,,06-05-1981
+1945548,TRUE,LU Xiaohui,Male,Head Coach,C,CHN,China,People's Republic of China,Rugby Sevens,,17-05-1975
+1945549,TRUE,ZHU Jiangtao,Male,Head Coach,C,CHN,China,People's Republic of China,Rugby Sevens,,03-11-1981
+1945550,TRUE,MA Chong,Male,Head Coach,C,CHN,China,People's Republic of China,Rugby Sevens,,26-08-1993
+1945552,TRUE,ZHU Jing,Male,Head Coach,C,CHN,China,People's Republic of China,Rugby Sevens,,05-08-1985
+1946315,TRUE,CARNELI Ryan,Male,Coach,C,AUS,Australia,Australia,Taekwondo,,11-10-1985
+1946317,TRUE,LEE Seokhun,Male,Coach,C,AUS,Australia,Australia,Taekwondo,,01-10-1979
+1946582,TRUE,MACCARANI Emanuela,Female,Coach,C,ITA,Italy,Italy,Rhythmic Gymnastics,,20-09-1966
+1946583,TRUE,ROVETTA Valentina,Female,Coach,C,ITA,Italy,Italy,Rhythmic Gymnastics,,24-07-1980
+1946585,TRUE,MANCINELLI Claudia,Female,Coach,C,ITA,Italy,Italy,Rhythmic Gymnastics,,16-01-1985
+1946907,TRUE,ABDULLAYEV Mammad,Male,Coach,C,AZE,Azerbaijan,Azerbaijan,Taekwondo,,07-07-1976
+1947221,TRUE,RADONIC Vesna,Female,Coach,C,MNE,Montenegro,Montenegro,Rhythmic Gymnastics,,03-04-1971
+1947623,TRUE,YANITSAS Andrew,Male,Assistant Coach,C,AUS,Australia,Australia,Water Polo,Men,14-03-1980
+1947628,TRUE,DENIS Eddie,Male,Assistant Coach,C,AUS,Australia,Australia,Water Polo,Women,14-10-1970
+1947636,TRUE,RIPPON Bec,Female,Head Coach,C,AUS,Australia,Australia,Water Polo,Women,26-12-1978
+1947637,TRUE,WOODS Taryn,Female,Assistant Coach,C,AUS,Australia,Australia,Water Polo,Women,12-08-1975
+1947638,TRUE,HAMILL Tim,Male,Head Coach,C,AUS,Australia,Australia,Water Polo,Men,27-12-1976
+1947758,TRUE,SULTANOV Yesbol,Male,Coach,C,TUN,Tunisia,Tunisia,Taekwondo,,01-03-1981
+1947762,TRUE,HECHMI Jendoubi,Male,Coach,C,TUN,Tunisia,Tunisia,Taekwondo,,01-06-1962
+1948319,TRUE,MARTIN CEDRES Ambrosio Jose,Male,Head Coach,C,ESP,Spain,Spain,Handball,Women,30-04-1968
+1948320,TRUE,MONTES AGUERA Cesar Jesus,Male,Assistant Coach,C,ESP,Spain,Spain,Handball,Men,06-01-1975
+1948321,TRUE,PRADES PONS Jose Ignacio,Male,Assistant Coach,C,ESP,Spain,Spain,Handball,Women,08-09-1975
+1948322,TRUE,RIBERA ROMANS Jordi,Male,Head Coach,C,ESP,Spain,Spain,Handball,Men,05-03-1963
+1948429,TRUE,JAKOVLJEVIC Nenad,Male,Coach,C,SRB,Serbia,Serbia,Basketball,,30-10-1988
+1948431,TRUE,KOSTIC Oliver,Male,Assistant Coach,C,SRB,Serbia,Serbia,Basketball,Men,20-02-1973
+1948432,TRUE,MARINOVIC Marko,Male,Assistant Coach,C,SRB,Serbia,Serbia,Basketball,,15-03-1983
+1948433,TRUE,PESIC Svetislav,Male,Coach,C,SRB,Serbia,Serbia,Basketball,Men,28-08-1949
+1948434,TRUE,STOJAKOVIC Ognjen,Male,Coach,C,SRB,Serbia,Serbia,Basketball,,29-09-1981
+1948438,TRUE,SEKULIC Marko,Male,Coach,C,SRB,Serbia,Serbia,Basketball,,17-07-1980
+1948749,TRUE,BUTULIJA Dajana,Female,Assistant Coach,C,SRB,Serbia,Serbia,Basketball,,23-02-1986
+1948750,TRUE,DRLJACA Ljubica,Female,Assistant Coach,C,SRB,Serbia,Serbia,Basketball,Women,04-08-1978
+1948752,TRUE,MALJKOVIC Marina,Female,Coach,C,SRB,Serbia,Serbia,Basketball,Women,26-09-1981
+1948764,TRUE,PAGE Danielle Nicole,Female,Coach,C,SRB,Serbia,Serbia,Basketball,,14-11-1986
+1948904,TRUE,BEATTIE Ciaran,Male,Head Coach,C,GBR,Great Britain,Great Britain,Rugby Sevens,Women,23-02-1986
+1948911,TRUE,NOLAN James,Male,Assistant Coach,C,GBR,Great Britain,Great Britain,Rugby Sevens,Women,27-08-1990
+1948913,TRUE,PUGH Richie,Male,Head Coach,C,GBR,Great Britain,Great Britain,Rugby Sevens,,10-08-1983
+1948914,TRUE,RIDDELL Scott,Male,Assistant Coach,C,GBR,Great Britain,Great Britain,Rugby Sevens,Women,05-10-1985
+1948915,TRUE,ROQUES Tony,Male,Head Coach,C,GBR,Great Britain,Great Britain,Rugby Sevens,,07-09-1978
+1948979,TRUE,JANIC Bojan,Male,Assistant Coach,C,SRB,Serbia,Serbia,Volleyball,Men,11-03-1982
+1948980,TRUE,JEVTIC Ivica,Male,Assistant Coach,C,SRB,Serbia,Serbia,Volleyball,Men,26-07-1983
+1948981,TRUE,KOLAKOVIC Igor,Male,Head Coach,C,SRB,Serbia,Serbia,Volleyball,Men,04-06-1965
+1948983,TRUE,MAJSTOROVIC Neven,Male,Assistant Coach,C,SRB,Serbia,Serbia,Volleyball,Men,17-03-1989
+1949017,TRUE,BUTARBUTAR Eva,Female,Coach,C,INA,Indonesia,Indonesia,Artistic Gymnastics,,04-07-1973
+1949063,TRUE,BLAGOJEVIC Jelena,Female,Assistant Coach,C,SRB,Serbia,Serbia,Volleyball,Women,01-12-1988
+1949064,TRUE,GUIDETTI Giovanni,Male,Head Coach,C,SRB,Serbia,Serbia,Volleyball,Women,20-09-1972
+1949394,TRUE,TUDELA PERRET Matias,Male,Head Coach,C,ESP,Spain,Spain,Rugby Sevens,,06-10-1984
+1949402,TRUE,HERNANDEZ JIMENEZ Francisco de Pau.,Male,Head Coach,C,ESP,Spain,Spain,Rugby Sevens,,28-10-1988
+1949458,TRUE,KOCH Ulla,Female,Coach,C,BEL,Belgium,Belgium,Artistic Gymnastics,,05-07-1955
+1949459,TRUE,van den HEUVEL Michel,Male,Head Coach,C,BEL,Belgium,Belgium,Hockey,Men,15-07-1964
+1949468,TRUE,MALDONADO Oscar,Male,Coach,C,DOM,Dominican Republic,Dominican Republic,Taekwondo,,04-06-1993
+1949531,TRUE,MATEO BATISTA Ruddy,Male,Coach,C,DOM,Dominican Republic,Dominican Republic,Taekwondo,,06-01-1985
+1949864,TRUE,LAACHRAOUI Mourad,Male,Coach,C,BEL,Belgium,Belgium,Taekwondo,,31-03-1995
+1949874,TRUE,MEZIANE Rachid,Male,Coach,C,BEL,Belgium,Belgium,Basketball,Women,10-02-1980
+1950176,TRUE,BARTON Emilee,Female,Assistant Coach,C,AUS,Australia,Australia,Rugby Sevens,Women,02-11-1992
+1950180,TRUE,STANNARD James,Male,Assistant Coach,C,AUS,Australia,Australia,Rugby Sevens,Men,21-02-1983
+1950182,TRUE,MANENTI John,Male,Head Coach,C,AUS,Australia,Australia,Rugby Sevens,Men,30-03-1971
+1950187,TRUE,WALSH Timothy,Male,Head Coach,C,AUS,Australia,Australia,Rugby Sevens,Women,10-04-1979
+1950509,TRUE,BYDWELL Emilie,Female,Head Coach,C,USA,United States,United States of America,Rugby Sevens,Women,31-08-1985
+1950510,TRUE,TEST Zack,Male,Assistant Coach,C,USA,United States,United States of America,Rugby Sevens,Women,13-10-1989
+1950515,TRUE,FORD Trey,Male,Assistant Coach,C,USA,United States,United States of America,Rugby Sevens,Women,
+1950520,TRUE,FRIDAY Mike,Male,Head Coach,C,USA,United States,United States of America,Rugby Sevens,Men,25-04-1972
+1950521,TRUE,GREENING Phil,Male,Assistant Coach,C,USA,United States,United States of America,Rugby Sevens,Men,03-10-1975
+1951636,TRUE,FERREIRA Marcel,Male,Coach,C,BRA,Brazil,Brazil,Artistic Swimming,,17-10-1986
+1951639,TRUE,KARFUNKELSTEIN Rogerio,Male,Coach,C,BRA,Brazil,Brazil,Artistic Swimming,,04-03-1976
+1952532,TRUE,SPLITTER Tiago,Male,Assistant Coach,C,BRA,Brazil,Brazil,Basketball,Men,01-01-1985
+1953168,TRUE,HAMANO Yukiya,Male,Goalkeeper Coach,C,JPN,Japan,Japan,Football,,28-09-1972
+1953169,TRUE,HANEDA Kenji,Male,Assistant Coach,C,JPN,Japan,Japan,Football,,01-12-1981
+1953170,TRUE,OIWA Go,Male,Head Coach,C,JPN,Japan,Japan,Football,Men,23-06-1972
+1953555,TRUE,CUNHA Thiago,Male,Assistant Coach,C,EGY,Egypt,Egypt,Football,,18-12-1978
+1953646,TRUE,ALBINO Cristiano,Male,Coach,C,BRA,Brazil,Brazil,Artistic Gymnastics,,21-12-1973
+1953647,TRUE,BISCALCHIN Daniel,Male,Coach,C,BRA,Brazil,Brazil,Artistic Gymnastics,,14-08-1978
+1953649,TRUE,PORATH Francisco,Male,Coach,C,BRA,Brazil,Brazil,Artistic Gymnastics,,18-07-1980
+1953652,TRUE,YASHENKO Iryna,Female,Coach,C,BRA,Brazil,Brazil,Artistic Gymnastics,,18-05-1960
+1953686,TRUE,ROSA Bruna,Female,Coach,C,BRA,Brazil,Brazil,Rhythmic Gymnastics,,13-02-1986
+1953687,TRUE,FEREZIN Camila,Female,Coach,C,BRA,Brazil,Brazil,Rhythmic Gymnastics,,18-04-1977
+1953695,TRUE,NAVES Marcia,Female,Coach,C,BRA,Brazil,Brazil,Rhythmic Gymnastics,,01-12-1965
+1953710,TRUE,PEREIRA Alexandro,Male,Coach,C,BRA,Brazil,Brazil,Rhythmic Gymnastics,,03-05-1972
+1953713,TRUE,FIGUEIREDO Tatiana,Female,Coach,C,BRA,Brazil,Brazil,Rhythmic Gymnastics,,29-06-1968
+1954067,TRUE,FUCHS Tracey,Female,Assistant Coach,C,USA,United States,United States of America,Hockey,,03-11-1966
+1954068,TRUE,PASSMORE David,Male,Head Coach,C,USA,United States,United States of America,Hockey,,15-06-1967
+1954069,TRUE,TELECHEA Javi,Male,Assistant Coach,C,USA,United States,United States of America,Hockey,,07-04-1988
+1954409,TRUE,MATHEUS Carlos,Male,Coach,C,BRA,Brazil,Brazil,Artistic Swimming,,23-02-1978
+1954411,TRUE,DOMINGUES Felipe,Male,Coach,C,BRA,Brazil,Brazil,Artistic Swimming,,07-03-1976
+1954413,TRUE,POSSENTI Fernando,Male,Coach,C,BRA,Brazil,Brazil,Artistic Swimming,,24-05-1979
+1954426,TRUE,ONHA MARQUES Sergio,Male,Coach,C,BRA,Brazil,Brazil,Artistic Swimming,,05-09-1973
+1954481,TRUE,FEW Mark,Male,Coach,C,USA,United States,United States of America,Basketball,,27-12-1962
+1954482,TRUE,KERR Steve,Male,Coach,C,USA,United States,United States of America,Basketball,Men,27-09-1965
+1954483,TRUE,LUE Tyronn,Male,Assistant Coach,C,USA,United States,United States of America,Basketball,Men,03-05-1977
+1954484,TRUE,SPOELSTRA Erik,Male,Assistant Coach,C,USA,United States,United States of America,Basketball,Men,01-11-1970
+1954499,TRUE,LAWSON Kara,Female,Coach,C,USA,United States,United States of America,Basketball,,14-02-1981
+1954500,TRUE,MILLER Curt,Male,Coach,C,USA,United States,United States of America,Basketball,,06-10-1968
+1954501,TRUE,REEVE Cheryl,Female,Coach,C,USA,United States,United States of America,Basketball,Women,20-09-1966
+1954502,TRUE,TAYLOR Joni,Female,Assistant Coach,C,USA,United States,United States of America,Basketball,Women,07-03-1979
+1954503,TRUE,THIBAULT Mike,Male,Assistant Coach,C,USA,United States,United States of America,Basketball,Women,28-09-1950
+1954505,TRUE,WRIGHT Tanisha,Female,Coach,C,USA,United States,United States of America,Basketball,,29-11-1983
+1954672,TRUE,KOLINISAU Ratu Osea,Male,Head Coach,C,FIJ,Fiji,Fiji,Rugby Sevens,Men,17-11-1985
+1955000,TRUE,ARENHART ALVES Ismael,Male,Assistant Coach,C,BRA,Brazil,Brazil,Rugby Sevens,Women,
+1955021,TRUE,BRODERICK William,Male,Head Coach,C,BRA,Brazil,Brazil,Rugby Sevens,Women,17-09-1992
+1955060,TRUE,FERRER Alexander,Male,Coach,C,BRA,Brazil,Brazil,Artistic Swimming,,25-08-1975
+1955820,TRUE,dos SANTOS Clayton,Male,Coach,C,BRA,Brazil,Brazil,Taekwondo,,03-07-1981
+1955822,TRUE,RIBEIRO Diego,Male,Coach,C,BRA,Brazil,Brazil,Taekwondo,,05-01-1987
+1955881,TRUE,NAMAUA Tikiko,Male,Assistant Coach,C,FIJ,Fiji,Fiji,Rugby Sevens,Women,11-05-1976
+1955954,TRUE,KLAMBURG ROQUE Paula,Female,Coach,C,AUS,Australia,Australia,Artistic Swimming,Team,20-09-1989
+1955958,TRUE,ONO Shoko,Female,Coach,C,AUS,Australia,Australia,Artistic Swimming,Team,09-11-1988
+1956101,TRUE,SOARES Mateus Joao Felgueiras,Male,Coach,C,TLS,Timor-Leste,Democratic Republic of Timor-Leste,Taekwondo,,12-02-1985
+1956202,TRUE,LUZON Guy,Male,Head Coach,C,ISR,Israel,Israel,Football,Men,17-08-1975
+1956206,TRUE,CHOEN Haim,Male,Assistant Coach,C,ISR,Israel,Israel,Football,,
+1956383,TRUE,BUTALA-KOVACIC Petra,Female,Coach,C,SRB,Serbia,Serbia,Taekwondo,,29-02-1988
+1956384,TRUE,JOVIC Dragan,Male,Coach,C,SRB,Serbia,Serbia,Taekwondo,,21-05-1969
+1956385,TRUE,SAVICEVIC Veljko,Male,Coach,C,SRB,Serbia,Serbia,Taekwondo,,19-08-1978
+1956422,TRUE,BUCHNIK Victor,Male,Goalkeeper Coach,C,ISR,Israel,Israel,Football,,
+1956472,TRUE,BILIC Darko,Male,Assistant Coach,C,SRB,Serbia,Serbia,Water Polo,Men,06-03-1978
+1956473,TRUE,CIRIC Stefan,Male,Assistant Coach,C,SRB,Serbia,Serbia,Water Polo,Men,15-08-1985
+1956476,TRUE,STEVANOVIC Uros,Male,Head Coach,C,SRB,Serbia,Serbia,Water Polo,Men,08-10-1982
+1956655,TRUE,TAAFFE Robert,Male,Coach,C,IRL,Ireland,Ireland,Taekwondo,,07-11-1981
+1956699,TRUE,NSILU DILANDU Leroy,Male,Coach,C,IRL,Ireland,Ireland,Taekwondo,,22-05-2002
+1956722,TRUE,EFTIMOV Aleksandar,Male,Coach,C,MKD,North Macedonia,North Macedonia,Taekwondo,,25-02-1986
+1957027,TRUE,ADEL MOSTAFA,Male,Assistant Coach,C,EGY,Egypt,Egypt,Football,Men,01-02-1982
+1957190,TRUE,FUJIKI Mayuko,Female,Coach,C,ESP,Spain,Spain,Artistic Swimming,Team,21-06-1975
+1957191,TRUE,JIMENEZ NIETO Cecilia,Female,Coach,C,ESP,Spain,Spain,Artistic Swimming,Duet,27-07-1995
+1957192,TRUE,REQUENA PERICAS Judit,Female,Coach,C,ESP,Spain,Spain,Artistic Swimming,Team,26-11-1992
+1957193,TRUE,VEGA HERRERO Anna,Female,Coach,C,ESP,Spain,Spain,Artistic Swimming,,12-01-1979
+1957222,TRUE,ANDREO GABAN Angel Luis,Male,Assistant Coach,C,ESP,Spain,Spain,Water Polo,Women,03-12-1972
+1957223,TRUE,APARICIO SUNEN Antonio Francisco,Male,Assistant Coach,C,ESP,Spain,Spain,Water Polo,Men,08-03-1960
+1957224,TRUE,IVANOV PIRALKOV Svilen,Male,Assistant Coach,C,ESP,Spain,Spain,Water Polo,Men,08-04-1975
+1957225,TRUE,MARTIN LOZANO David,Male,Head Coach,C,ESP,Spain,Spain,Water Polo,Men,02-01-1977
+1957226,TRUE,OCA GAIA Miguel Angel,Male,Head Coach,C,ESP,Spain,Spain,Water Polo,Women,15-04-1970
+1957227,TRUE,VALLS NART Jordi,Male,Assistant Coach,C,ESP,Spain,Spain,Water Polo,Women,04-11-1977
+1957429,TRUE,KERTESZNE BORKAI Anita,Female,Coach,C,HUN,Hungary,Hungary,Artistic Gymnastics,,14-11-1969
+1957645,TRUE,CAMPODONICO Marco,Male,Coach,C,ITA,Italy,Italy,Artistic Gymnastics,,21-05-1963
+1957768,TRUE,CASELLA Enrico,Male,Coach,C,ITA,Italy,Italy,Artistic Gymnastics,,28-01-1957
+1958557,TRUE,ZHOU Tianke,Female,Coach,C,LAO,Lao PDR,Lao People's Democratic Republic,Rhythmic Gymnastics,,21-10-1977
+1958748,TRUE,ALLER CARBALLO Manuel Angel,Male,Coach,C,ESP,Spain,Spain,Basketball,,17-04-1963
+1958749,TRUE,CAMPS SAN JOSE Salvador,Male,Coach,C,ESP,Spain,Spain,Basketball,,19-05-1979
+1958751,TRUE,FERNANDEZ TARGARONA Isaac,Male,Coach,C,ESP,Spain,Spain,Basketball,,18-01-1980
+1958752,TRUE,GARCIA GUADARRAMA Victor Jesus,Male,Coach,C,ESP,Spain,Spain,Basketball,,06-02-1980
+1958754,TRUE,GUIL Luis,Male,Assistant Coach,C,ESP,Spain,Spain,Basketball,Men,16-07-1971
+1958756,TRUE,MENDEZ Miguel,Male,Coach,C,ESP,Spain,Spain,Basketball,Women,02-03-1967
+1958758,TRUE,REY Luis,Male,Assistant Coach,C,ESP,Spain,Spain,Basketball,Women,28-08-1964
+1958760,TRUE,PRADO BRANAS Joaquin,Male,Coach,C,ESP,Spain,Spain,Basketball,,17-03-1976
+1958761,TRUE,SANCHEZ CANETE CALVO Angel Luis,Male,Assistant Coach,C,ESP,Spain,Spain,Basketball,Men,09-12-1969
+1958763,TRUE,SCARIOLO Sergio,Male,Coach,C,ESP,Spain,Spain,Basketball,Men,01-04-1961
+1958764,TRUE,URIETA GUTIERREZ Madelen,Female,Assistant Coach,C,ESP,Spain,Spain,Basketball,,21-08-1981
+1959349,TRUE,CAREY Brian,Male,Coach,C,USA,United States,United States of America,Artistic Gymnastics,,22-09-1973
+1959353,TRUE,LANDI Cecile,Female,Coach,C,USA,United States,United States of America,Artistic Gymnastics,,03-10-1979
+1959368,TRUE,BRECKENRIDGE Grant,Male,Coach,C,USA,United States,United States of America,Artistic Gymnastics,,08-04-1997
+1959369,TRUE,SUN Sonia,Female,Coach,C,USA,United States,United States of America,Artistic Gymnastics,,26-01-1977
+1959382,TRUE,GRABA Jess,Male,Coach,C,USA,United States,United States of America,Artistic Gymnastics,,26-12-1968
+1959384,TRUE,GAARENSTROOM Jordan,Male,Coach,C,USA,United States,United States of America,Artistic Gymnastics,,14-01-1992
+1959395,TRUE,LANDI Laurent,Male,Coach,C,USA,United States,United States of America,Artistic Gymnastics,,18-10-1977
+1959400,TRUE,KLIMOUK Natalia,Female,Coach,C,USA,United States,United States of America,Rhythmic Gymnastics,,09-01-1968
+1959405,TRUE,CAESAR Syque,Male,Coach,C,USA,United States,United States of America,Artistic Gymnastics,,22-08-1990
+1959412,TRUE,MIKULAK Sam,Male,Coach,C,USA,United States,United States of America,Artistic Gymnastics,,13-10-1992
+1959432,TRUE,LIUKIN Valeri,Male,Coach,C,USA,United States,United States of America,Artistic Gymnastics,,17-12-1966
+1960844,TRUE,BARRIEAU Jocelyn,Female,Assistant Coach,C,CAN,Canada,Canada,Rugby Sevens,Women,09-02-1982
+1960845,TRUE,HANRATTY Jack,Male,Head Coach,C,CAN,Canada,Canada,Rugby Sevens,Women,09-05-1989
+1960848,TRUE,MONAGHAN Iain,Male,Assistant Coach,C,CAN,Canada,Canada,Rugby Sevens,Women,08-08-1980
+1960860,TRUE,JOYCE Jenn,Female,Assistant Coach,C,CAN,Canada,Canada,Rugby Sevens,Women,
+1961375,TRUE,KONE Thierry,Male,Coach,C,CIV,CÃ´te d'Ivoire,CÃ´te d'Ivoire,Taekwondo,,01-07-1981
+1961586,TRUE,VOLAVOLA Timoci,Male,Assistant Coach,C,FIJ,Fiji,Fiji,Rugby Sevens,Women,27-09-1978
+1961712,TRUE,TUIFUA Tevita,Male,Head Coach,C,TGA,Tonga,Tonga,Rugby Sevens,,15-10-1975
+1961720,TRUE,OTUMULI Mavae,Male,Head Coach,C,TGA,Tonga,Tonga,Rugby Sevens,,22-07-1984
+1961741,TRUE,VAIANGINA Ekitino,Male,Head Coach,C,TGA,Tonga,Tonga,Rugby Sevens,,09-03-1970
+1961751,TRUE,LIUTAI Malika,Male,Head Coach,C,TGA,Tonga,Tonga,Rugby Sevens,,07-02-1964
+1961912,TRUE,FULI Saiasi,Male,Head Coach,C,FIJ,Fiji,Fiji,Rugby Sevens,Women,16-03-1978
+1962265,TRUE,TOPPING James,Male,Head Coach,C,IRL,Ireland,Ireland,Rugby Sevens,Men,18-12-1974
+1962452,TRUE,TEMPLE-JONES Allan,Male,Head Coach,C,IRL,Ireland,Ireland,Rugby Sevens,Women,23-01-1981
+1962481,TRUE,WONG Ka Wing,Male,Coach,C,HKG,"Hong Kong, China","Hong Kong, China",Taekwondo,,06-08-1974
+1963019,TRUE,MICALE Rogerio,Male,Head Coach,C,EGY,Egypt,Egypt,Football,Men,28-03-1969
+1963171,TRUE,LERGA Javier,Male,Assistant Coach,C,ESP,Spain,Spain,Football,,10-08-1979
+1963174,TRUE,SANCHEZ Carlos,Male,Goalkeeper Coach,C,ESP,Spain,Spain,Football,,19-01-1978
+1963175,TRUE,TOME Montse,Female,Head Coach,C,ESP,Spain,Spain,Football,Women,11-05-1982
+1963555,TRUE,BAYER Steven,Male,Coach,C,BEL,Belgium,Belgium,Hockey,,27-02-1978
+1963556,TRUE,WHITE Tim,Male,Assistant Coach,C,BEL,Belgium,Belgium,Hockey,,26-02-1966
+1963627,TRUE,LOPEZ ROMERO Victor Hugo,Male,Assistant Coach,C,JPN,Japan,Japan,Handball,Men,23-11-1982
+1963628,TRUE,ORTEGA PEREZ Antonio Carlos,Male,Head Coach,C,JPN,Japan,Japan,Handball,Men,14-07-1971
+1964423,TRUE,ROCHA de REZENDE Bernardo,Male,Head Coach,C,BRA,Brazil,Brazil,Volleyball,Men,25-08-1959
+1964448,TRUE,RIBAS Giuliano,Male,Assistant Coach,C,BRA,Brazil,Brazil,Volleyball,Men,
+1964453,TRUE,LAGES GUIMARAES Jose Roberto,Male,Head Coach,C,BRA,Brazil,Brazil,Volleyball,Women,31-07-1954
+1964473,TRUE,DO REGO BARROS JUNIOR Paulo,Male,Assistant Coach,C,BRA,Brazil,Brazil,Volleyball,Women,
+1964481,TRUE,LEONALDO Roberley Luiz,Male,Assistant Coach,C,BRA,Brazil,Brazil,Volleyball,Men,
+1964485,TRUE,TABACH Ricardo,Male,Assistant Coach,C,BRA,Brazil,Brazil,Volleyball,Men,
+1964492,TRUE,COPPINI FERNANDES Wagner Luiz,Male,Assistant Coach,C,BRA,Brazil,Brazil,Volleyball,Women,
+1965161,TRUE,KEET Marcelle,Female,Assistant Coach,C,RSA,South Africa,South Africa,Hockey,,25-10-1984
+1965168,TRUE,BONNET Giles,Male,Head Coach,C,RSA,South Africa,South Africa,Hockey,,10-02-1965
+1965644,TRUE,GIL Carlos,Male,Coach,C,PAN,Panama,Panama,Artistic Gymnastics,,12-06-1985
+1967242,TRUE,LAWRENCE Natalie,Female,Assistant Coach,C,NZL,New Zealand,New Zealand,Football,,05-07-1984
+1967254,TRUE,HERST Jen,Female,Goalkeeper Coach,C,CAN,Canada,Canada,Football,,29-04-1986
+1967256,TRUE,MANDER Jasmine,Female,Assistant Coach,C,CAN,Canada,Canada,Football,,23-05-1995
+1967258,TRUE,PRIESTMAN Bev,Female,Head Coach,C,CAN,Canada,Canada,Football,Women,28-04-1986
+1967262,TRUE,SPENCE Andy,Male,Assistant Coach,C,CAN,Canada,Canada,Football,,08-01-1983
+1967313,TRUE,PARK Jae,Male,Coach,C,CAN,Canada,Canada,Taekwondo,,19-04-1969
+1967315,TRUE,THORNTON Daniel,Male,Coach,C,CAN,Canada,Canada,Taekwondo,,21-04-1974
+1967332,TRUE,LIMA Brian,Male,Head Coach,C,SAM,Samoa,Samoa,Rugby Sevens,Men,25-01-1972
+1967468,TRUE,PARADELO David,Male,Head Coach,C,CAN,Canada,Canada,Water Polo,Women,07-10-1985
+1967471,TRUE,POSTERIVO Stefano,Male,Assistant Coach,C,CAN,Canada,Canada,Water Polo,Women,02-11-1967
+1967472,TRUE,CAMPBELL Cora,Female,Assistant Coach,C,CAN,Canada,Canada,Water Polo,Women,28-05-1974
+1967642,TRUE,IGLESIAS Rodrigo,Male,Assistant Coach,C,BRA,Brazil,Brazil,Football,,
+1967672,TRUE,ALCANTARA Edson,Male,Goalkeeper Coach,C,BRA,Brazil,Brazil,Football,,
+1967683,TRUE,ELIAS Arthur,Male,Head Coach,C,BRA,Brazil,Brazil,Football,Women,05-08-1981
+1968210,TRUE,LALOMILO Faamaoni,Male,Assistant Coach,C,SAM,Samoa,Samoa,Rugby Sevens,Men,30-01-1971
+1968247,TRUE,CIRKOVIC Vedran,Male,Assistant Coach,C,AUS,Australia,Australia,Water Polo,Men,14-03-1988
+1968453,TRUE,CHERNETSKA Nataliya,Female,Coach,C,GRE,Greece,Greece,Artistic Swimming,Duet,01-04-1974
+1968484,TRUE,KAMMENOU Alexia Anna,Female,Head Coach,C,GRE,Greece,Greece,Water Polo,Women,25-07-1969
+1968489,TRUE,LEMPESIS Xenofon,Male,Assistant Coach,C,GRE,Greece,Greece,Water Polo,Women,16-12-1972
+1968491,TRUE,PYRPYRIS Anastasios,Male,Assistant Coach,C,GRE,Greece,Greece,Water Polo,Women,15-04-1983
+1968492,TRUE,SCHIZAS Anastasios,Male,Assistant Coach,C,GRE,Greece,Greece,Water Polo,Men,18-02-1977
+1968495,TRUE,VLACHOS Theodoros,Male,Head Coach,C,GRE,Greece,Greece,Water Polo,Men,09-07-1969
+1968531,TRUE,KANTZOURIS Ilias,Male,Assistant Coach,C,GRE,Greece,Greece,Basketball,Men,11-08-1973
+1968540,TRUE,SPANOULIS Vasilis,Male,Coach,C,GRE,Greece,Greece,Basketball,Men,07-08-1982
+1968567,TRUE,RAFTIS Dimitrios,Male,Coach,C,GRE,Greece,Greece,Artistic Gymnastics,,19-12-1967
+1968759,TRUE,JENNINGS Stephen,Male,Coach,C,EOR,EOR,Refugee Olympic Team,Taekwondo,,25-12-1981
+1968802,TRUE,FJELLSTROM Jens,Male,Assistant Coach,C,AUS,Australia,Australia,Football,Women,27-10-1966
+1968822,TRUE,ANDREATTA Mel,Female,Assistant Coach,C,AUS,Australia,Australia,Football,Women,26-01-1979
+1968838,TRUE,GUSTAVSSON Tony,Male,Head Coach,C,AUS,Australia,Australia,Football,Women,14-08-1973
+1968868,TRUE,van ECK Richard,Male,Assistant Coach,C,NED,Netherlands,Netherlands,Water Polo,Women,08-03-1983
+1968871,TRUE,DOUDESIS Eva,Male,Head Coach,C,NED,Netherlands,Netherlands,Water Polo,Women,12-03-1985
+1968964,TRUE,MOGHANLOU Bijan,Male,Coach,C,EGY,Egypt,Egypt,Taekwondo,,21-10-1969
+1969275,TRUE,SICOT David Patrick,Male,Coach,C,LBN,Lebanon,Lebanon,Taekwondo,,24-10-1985
+1969357,TRUE,SEKTIOUI Tarik,Male,Head Coach,C,MAR,Morocco,Morocco,Football,Men,
+1969386,TRUE,HADJI Youssouf,Male,Assistant Coach,C,MAR,Morocco,Morocco,Football,,25-02-1980
+1969466,TRUE,BADAWI Ghanem,Male,Coach,C,SYR,Syria,Syrian Arab Republic,Artistic Gymnastics,,01-04-1980
+1970225,TRUE,van der VEEN Jose,Female,Coach,C,NED,Netherlands,Netherlands,Artistic Gymnastics,,18-05-1977
+1970227,TRUE,WEVERS Vincent,Male,Coach,C,NED,Netherlands,Netherlands,Artistic Gymnastics,,28-09-1962
+1970228,TRUE,den UIJL Kevin,Male,Coach,C,NED,Netherlands,Netherlands,Artistic Gymnastics,,22-08-1995
+1970229,TRUE,JACOBS Jeroen,Male,Coach,C,NED,Netherlands,Netherlands,Artistic Gymnastics,,21-11-1971
+1970235,TRUE,KLEUSKENS Marcel,Male,Coach,C,NED,Netherlands,Netherlands,Artistic Gymnastics,,17-04-1982
+1970236,TRUE,KNIBBELER Daniel,Male,Coach,C,NED,Netherlands,Netherlands,Artistic Gymnastics,,10-02-1980
+1970237,TRUE,van MELDERT Dirk Jan,Male,Coach,C,NED,Netherlands,Netherlands,Artistic Gymnastics,,03-12-1965
+1970317,TRUE,CLARIJS Ricardo,Male,Assistant Coach,C,NED,Netherlands,Netherlands,Handball,Women,22-04-1990
+1970322,TRUE,JOHANSSON Per,Male,Head Coach,C,NED,Netherlands,Netherlands,Handball,Women,10-11-1970
+1970733,TRUE,GOUTSEVA Anastasia,Female,Coach,C,GRE,Greece,Greece,Artistic Swimming,Duet,29-04-1975
+1970859,TRUE,SOKOLOVA Natalia,Female,Coach,C,CYP,Cyprus,Cyprus,Rhythmic Gymnastics,,14-06-1976
+1970880,TRUE,OGEYINGBO Ayodeji,Male,Coach,C,NGR,Nigeria,Nigeria,Basketball,,30-06-1994
+1970974,TRUE,DERAEDT Laurent,Male,Goalkeeper Coach,C,MAR,Morocco,Morocco,Football,,20-10-1973
+1971523,TRUE,LESZNER Joe,Male,Coach,C,CAN,Canada,Canada,Archery,,
+1972037,TRUE,TICHELMAN Thomas,Male,Assistant Coach,C,NED,Netherlands,Netherlands,Hockey,,22-03-1960
+1972052,TRUE,van ASS Paul,Male,Head Coach,C,NED,Netherlands,Netherlands,Hockey,,16-08-1960
+1972055,TRUE,DELMEE Jeroen,Male,Head Coach,C,NED,Netherlands,Netherlands,Hockey,,08-03-1973
+1972056,TRUE,VERBOOM Eric,Male,Assistant Coach,C,NED,Netherlands,Netherlands,Hockey,,01-02-1970
+1972359,TRUE,ALIYEVA Kamilla,Female,Coach,C,AZE,Azerbaijan,Azerbaijan,Rhythmic Gymnastics,,03-04-2006
+1972419,TRUE,VILYAYEVA Yevgeniya,Female,Coach,C,AZE,Azerbaijan,Azerbaijan,Rhythmic Gymnastics,,08-01-1994
+1972423,TRUE,VASILEVA Siyana,Female,Coach,C,AZE,Azerbaijan,Azerbaijan,Rhythmic Gymnastics,,03-03-1996
+1972426,TRUE,GULIYEV Kamil,Male,Coach,C,AZE,Azerbaijan,Azerbaijan,Rhythmic Gymnastics,,21-09-1993
+1972427,TRUE,KARIMLI Akif,Male,Coach,C,AZE,Azerbaijan,Azerbaijan,Rhythmic Gymnastics,,25-03-1995
+1972461,TRUE,JAUMA CAYUELA Esther,Female,Coach,C,NED,Netherlands,Netherlands,Artistic Swimming,Duet,07-05-1970
+1972652,TRUE,GIE Cheslyn,Male,Head Coach,C,RSA,South Africa,South Africa,Hockey,,30-07-1975
+1972655,TRUE,NTULI Siphesihle,Male,Assistant Coach,C,RSA,South Africa,South Africa,Hockey,,29-01-1989
+1972933,TRUE,GOMEZ Ibai,Male,Head Coach,C,DOM,Dominican Republic,Dominican Republic,Football,Men,11-11-1989
+1972934,TRUE,RAMOS SANCHEZ Antonio,Male,Coach,C,CIV,CÃ´te d'Ivoire,CÃ´te d'Ivoire,Taekwondo,,18-08-1976
+1972992,TRUE,AMOREBIETA Fernando,Male,Assistant Coach,C,DOM,Dominican Republic,Dominican Republic,Football,,29-03-1985
+1973058,TRUE,BRITEZ Cristhian,Male,Goalkeeper Coach,C,DOM,Dominican Republic,Dominican Republic,Football,,25-09-1984
+1973138,TRUE,BALAN Adrian,Male,Coach,C,CAN,Canada,Canada,Artistic Gymnastics,,04-05-1971
+1973147,TRUE,COWAN Lisa,Female,Coach,C,CAN,Canada,Canada,Artistic Gymnastics,,03-08-1969
+1973162,TRUE,KIKUCHI David,Male,Coach,C,CAN,Canada,Canada,Artistic Gymnastics,,27-12-1979
+1973180,TRUE,van HOOF Ed,Male,Coach,C,CAN,Canada,Canada,Artistic Gymnastics,,22-08-1956
+1973374,TRUE,FALSETTA Ross,Male,Coach,C,GBR,Great Britain,Great Britain,Artistic Gymnastics,,02-10-1985
+1973377,TRUE,DENG Ajou,Male,Assistant Coach,C,SSD,South Sudan,South Sudan,Basketball,,24-12-1978
+1973378,TRUE,WIGNALL Rachel,Female,Coach,C,GBR,Great Britain,Great Britain,Artistic Gymnastics,,07-08-1989
+1973524,TRUE,MEIJER Eric,Male,Assistant Coach,C,NED,Netherlands,Netherlands,Volleyball,Women,26-09-1989
+1973525,TRUE,KOSLOWSKI Felix,Male,Head Coach,C,NED,Netherlands,Netherlands,Volleyball,Women,18-03-1984
+1973532,TRUE,FERRER CUTINO Gil,Male,Assistant Coach,C,NED,Netherlands,Netherlands,Volleyball,Women,11-10-1971
+1973576,TRUE,IVEY Royal,Male,Coach,C,SSD,South Sudan,South Sudan,Basketball,Men,20-12-1981
+1973651,TRUE,KOUDI Mandela,Male,Coach,C,SSD,South Sudan,South Sudan,Basketball,,21-11-1991
+1973693,TRUE,CHIEJINE Ann,Female,Assistant Coach,C,NGR,Nigeria,Nigeria,Football,,02-02-1974
+1974021,TRUE,KULESZA Kasia,Female,Coach,C,CAN,Canada,Canada,Artistic Swimming,Duet,29-08-1976
+1974022,TRUE,MORGAN Kerri,Female,Coach,C,CAN,Canada,Canada,Artistic Swimming,Duet,04-06-1971
+1974025,TRUE,VOLOSHYNA Anna,Female,Coach,C,CAN,Canada,Canada,Artistic Swimming,Team,26-09-1991
+1974026,TRUE,YAKHNO Yelyzaveta,Female,Coach,C,CAN,Canada,Canada,Artistic Swimming,Team,04-06-1998
+1974386,TRUE,SAWADOGO Rasmane,Male,Coach,C,BUR,Burkina Faso,Burkina Faso,Taekwondo,,25-06-1965
+1974755,TRUE,BAUR Steve,Male,Assistant Coach,C,CAN,Canada,Canada,Basketball,Women,31-03-1979
+1974756,TRUE,BJORKGREN Nate,Male,Assistant Coach,C,CAN,Canada,Canada,Basketball,Men,20-06-1975
+1974757,TRUE,CLARKE Carly,Female,Coach,C,CAN,Canada,Canada,Basketball,,07-03-1983
+1974760,TRUE,FERNANDEZ Jordi,Male,Coach,C,CAN,Canada,Canada,Basketball,Men,27-12-1982
+1974766,TRUE,LAPENA Victor,Male,Coach,C,CAN,Canada,Canada,Basketball,Women,12-03-1975
+1974769,TRUE,MITCHELL Nathaniel,Male,Assistant Coach,C,CAN,Canada,Canada,Basketball,,27-06-1986
+1974771,TRUE,N'DONG Boniface,Male,Coach,C,CAN,Canada,Canada,Basketball,,03-09-1977
+1974772,TRUE,PAGE Murriel,Female,Coach,C,CAN,Canada,Canada,Basketball,,18-09-1975
+1974773,TRUE,QUINN Noelle,Female,Assistant Coach,C,CAN,Canada,Canada,Basketball,,03-01-1985
+1975398,TRUE,DENG Luol,Male,Assistant Coach,C,SSD,South Sudan,South Sudan,Basketball,Men,16-04-1985
+1975920,TRUE,CASTANEDA Allen Aldrin,Male,Coach,C,PHI,Philippines,Philippines,Artistic Gymnastics,,20-07-1972
+1975923,TRUE,HRYBANOV Andrii,Male,Coach,C,ISR,Israel,Israel,Artistic Gymnastics,,01-10-1970
+1975934,TRUE,GRIFFETH Garrett Stephen,Male,Coach,C,PHI,Philippines,Philippines,Artistic Gymnastics,,13-08-1986
+1977071,TRUE,ABAD EXPOSITO Iker Miquel,Male,Coach,C,IRL,Ireland,Ireland,Taekwondo,,24-07-2004
+1977388,TRUE,WALDRUM Randy,Male,Head Coach,C,NGR,Nigeria,Nigeria,Football,Women,25-09-1956
+1977689,TRUE,DIAWARA Kaba,Male,Head Coach,C,GUI,Guinea,Guinea,Football,Men,16-12-1975
+1978161,TRUE,CAPELLI Claudio,Male,Coach,C,SUI,Switzerland,Switzerland,Artistic Gymnastics,,16-11-1986
+1978215,TRUE,GUELZEC Laurent,Male,Coach,C,SUI,Switzerland,Switzerland,Artistic Gymnastics,,22-04-1971
+1978259,TRUE,KISTLER Frank,Male,Coach,C,SUI,Switzerland,Switzerland,Artistic Gymnastics,,08-10-1984
+1978688,TRUE,MUNOZ BENITEZ Fernando,Male,Head Coach,C,EGY,Egypt,Egypt,Volleyball,Men,27-07-1970
+1980774,TRUE,KIM Myong Hwa,Female,Coach,C,PRK,DPR Korea,Democratic People's Republic of Korea,Artistic Gymnastics,,02-03-1971
+1980904,TRUE,TRAJKOVIC Ivan Konrad,Male,Coach,C,SLO,Slovenia,Slovenia,Taekwondo,,01-09-1991
+1980943,TRUE,PAVLIC Aljaz,Male,Assistant Coach,C,SLO,Slovenia,Slovenia,Handball,Women,18-01-1979
+1980962,TRUE,MIJATOVIC Branka,Female,Assistant Coach,C,SLO,Slovenia,Slovenia,Handball,Women,19-07-1973
+1980979,TRUE,ADZIC Dragan,Male,Head Coach,C,SLO,Slovenia,Slovenia,Handball,Women,13-12-1969
+1980981,TRUE,DROZHANOVA Elena,Female,Coach,C,SLO,Slovenia,Slovenia,Rhythmic Gymnastics,,24-06-1976
+1980987,TRUE,CRETU Gheorghe,Male,Head Coach,C,SLO,Slovenia,Slovenia,Volleyball,Men,08-08-1968
+1980990,TRUE,DIVKOVIC Goran,Male,Coach,C,SLO,Slovenia,Slovenia,Taekwondo,,23-01-1973
+1981325,TRUE,ZVIZEJ Luka,Male,Assistant Coach,C,SLO,Slovenia,Slovenia,Handball,Men,09-12-1980
+1981356,TRUE,de CECCO Matteo,Male,Assistant Coach,C,SLO,Slovenia,Slovenia,Volleyball,Men,23-01-1969
+1981649,TRUE,RETELJ Natasa,Female,Coach,C,SLO,Slovenia,Slovenia,Artistic Gymnastics,,12-09-1977
+1981689,TRUE,ZORMAN Uros,Male,Head Coach,C,SLO,Slovenia,Slovenia,Handball,Men,09-01-1980
+1981697,TRUE,KEDACIC Zoran,Male,Assistant Coach,C,SLO,Slovenia,Slovenia,Volleyball,Men,06-04-1984
+1986732,TRUE,MUGANGUZI Wani,Male,Assistant Coach,C,NGR,Nigeria,Nigeria,Basketball,Women,26-06-1990
+2041085,TRUE,FITZGERALD David,Male,Coach,C,IRL,Ireland,Ireland,Hockey,,08-10-1986
+2476695,TRUE,BAM Jenna,Female,Head Coach,C,RSA,South Africa,South Africa,Rugby Sevens,,10-12-1996
+3057892,TRUE,FALAHATGAR ETMINANI Davoud,Male,Coach,C,BUL,Bulgaria,Bulgaria,Taekwondo,,21-06-1980
+3430822,TRUE,PETROVIC Aleksandar,Male,Coach,C,BRA,Brazil,Brazil,Basketball,Men,16-02-1959
+3496078,TRUE,GORIATCHKINE Ivan,Male,Coach,C,PHI,Philippines,Philippines,Artistic Gymnastics,,25-03-1995
+3520243,TRUE,BASILE Leonardo,Male,Coach,C,EOR,EOR,Refugee Olympic Team,Taekwondo,,12-05-1983
+3528052,TRUE,VICTOR John,Male,Coach,C,NGR,Nigeria,Nigeria,Taekwondo,,22-05-1977
+3538853,TRUE,DONNELLY Peter,Male,Assistant Coach,C,IRL,Ireland,Ireland,Rugby Sevens,Men,12-01-1983
+3539442,TRUE,CARSON Luke,Male,Coach,C,IRL,Ireland,Ireland,Artistic Gymnastics,,23-10-1989
+3544158,TRUE,GORBACHEV Stepan,Male,Coach,C,UKR,Ukraine,Ukraine,Artistic Gymnastics,,02-10-1983
+3545804,TRUE,MARAJAN Sabit,Male,Coach,C,SSD,South Sudan,South Sudan,Taekwondo,,01-01-1958
+3546458,TRUE,DIAWARA Fousseni,Male,Assistant Coach,C,GUI,Guinea,Guinea,Football,Men,28-08-1980
+3546645,TRUE,CAUKAUNIVALU Setefano,Male,Assistant Coach,C,FIJ,Fiji,Fiji,Rugby Sevens,Men,03-09-1978
+3561918,TRUE,GRANDES Pablo,Male,Assistant Coach,C,IRQ,Iraq,Iraq,Football,,14-10-1986
+4043244,TRUE,FONG Lerissa,Female,Head Coach,C,SAM,Samoa,Samoa,Rugby Sevens,,13-05-1982
+4043245,TRUE,POMARE Sapani,Male,Head Coach,C,SAM,Samoa,Samoa,Rugby Sevens,,25-10-1969
+4043246,TRUE,FAALUPEGA Avii,Female,Head Coach,C,SAM,Samoa,Samoa,Rugby Sevens,,26-03-1986
+4044836,TRUE,DAVID EP CHIRILCENCO Georgeta,Female,Coach,C,ALG,Algeria,Algeria,Artistic Gymnastics,,10-03-1974
+4119109,TRUE,ELZEFTAWEY Tarek,Male,Assistant Coach,C,EGY,Egypt,Egypt,Volleyball,Men,12-04-1975
+4645809,TRUE,GAARENSTROOM Jordan Jon,Male,Coach,C,SYR,Syria,Syrian Arab Republic,Artistic Gymnastics,,14-01-1992
+4646497,TRUE,PROST KOSIR Primoz,Male,Assistant Coach,C,SLO,Slovenia,Slovenia,Handball,Men,14-07-1983
+4649776,TRUE,TRAORE Alioune,Male,Coach,C,MLI,Mali,Mali,Taekwondo,,14-06-1962
+4653058,TRUE,COCCIA Kristina,Female,Coach,C,HAI,Haiti,Haiti,Artistic Gymnastics,,19-12-1988
+4653997,TRUE,KAMKASOUMPHOU Ekvara,Male,Coach,C,MLI,Mali,Mali,Taekwondo,,12-04-1975
+4658462,TRUE,KHAJAVI Naeima,Male,Coach,C,EGY,Egypt,Egypt,Taekwondo,,19-09-1965
+4847471,TRUE,LAWSON Franck,Male,Coach,C,BUR,Burkina Faso,Burkina Faso,Taekwondo,,23-09-1976
+4968759,TRUE,Mc DONALD Janelle Leigh,Female,Coach,C,PHI,Philippines,Philippines,Artistic Gymnastics,,21-12-1982
+4968917,TRUE,QUESNEL Yannick,Male,Goalkeeper Coach,C,GUI,Guinea,Guinea,Football,Men,24-10-1973
+4976780,TRUE,TANSKANEN Juha Petteri,Male,Coach,C,SYR,Syria,Syrian Arab Republic,Artistic Gymnastics,,03-02-1971
+5016082,TRUE,CHOUBA Jaouad,Female,Coach,C,GBS,Guinea-Bissau,Guinea-Bissau,Taekwondo,,02-11-1982
+9230002,TRUE,HERDEIRO Alvaro Francisco,Male,Assistant Coach,C,BRA,Brazil,Brazil,Handball,Women,23-06-1969
+9230003,TRUE,MAROJA Gabriel Augusto,Male,Assistant Coach,C,BRA,Brazil,Brazil,Handball,Women,07-05-1996
+9230006,TRUE,ALONSO BERNARDO Jessica,Female,Assistant Coach,C,ESP,Spain,Spain,Handball,Women,20-09-1983
+9230010,TRUE,LARSSON Thomas Erik Daniel,Male,Assistant Coach,C,NED,Netherlands,Netherlands,Handball,Women,
+9230012,TRUE,CAROU Gonzalo,Male,Assistant Coach,C,ARG,Argentina,Argentina,Handball,Men,
+9230013,TRUE,CAZON Guillermo,Male,Assistant Coach,C,ARG,Argentina,Argentina,Handball,Men,
+9230017,TRUE,CAAMANO Juan,Male,Assistant Coach,C,ESP,Spain,Spain,Handball,Men,06-12-1990
+9230018,TRUE,TORRESCUSA Ignacio,Male,Assistant Coach,C,ESP,Spain,Spain,Handball,Men,21-07-1994
+9230020,TRUE,GJERDE Joar,Male,Assistant Coach,C,NOR,Norway,Norway,Handball,Women,01-11-1988
+9390001,TRUE,BONDAR Vladyslav,Male,Coach,C,BUR,Burkina Faso,Burkina Faso,Taekwondo,,26-03-1998
+9430008,TRUE,CICHELLO Juan Manuel,Male,Assistant Coach,C,ITA,Italy,Italy,Volleyball,Women,
+9450042,TRUE,VASSILIADES Emmanuel,Male,Assistant Coach,C,GRE,Greece,Greece,Water Polo,Men,03-08-1979
