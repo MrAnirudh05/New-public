@@ -1,4 +1,4 @@
-# New-public
+# Olympics Mini-Warehouse – End-to-End Data Engineering Project
 This repository contains datasets related to the Olympics, including teams, medals, athletes, and coaches. The project demonstrates an end-to-end data pipeline, analysis, and visualization.
 
 🏅 Olympics Mini-Warehouse – End-to-End Data Engineering Project
